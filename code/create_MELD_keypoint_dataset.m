@@ -39,17 +39,19 @@ diary(logfile);
 % PATHS
 %% ------------------------------------------------------------------------
 
+% Update these paths to match your local installation.
+
 meld_csv = ...
-    "C:\Data\MELD_Processing\MELD_groundtruth\test_sent_emo.csv";
+    "path_to_MELD_groundtruth/test_sent_emo.csv";
 
 pyppbox_folder = ...
-    "C:\Data\MELD_Processing\MELD_pyppbox_Output\test\test_batch1";
+    "path_to_pyppbox_output/test";
 
 openpose_folder = ...
-    "C:\Data\MELD_Processing\openpose_output\test_openpose_output";
+    "path_to_openpose_output/test";
 
 output_folder = ...
-    "C:\Data\MELD_Processing\MELD_CombinedDataset\test";
+    "path_to_output_folder/test";
 
 if ~exist(output_folder,'dir')
     mkdir(output_folder);
