@@ -1,0 +1,1001 @@
+SourceFile,VideoName,ExpectedSpeaker,Emotion,TotalFramesVideo,SpeakerFramesFound,FramesExtracted,UnknownCount,ErrorUTACount,Status
+res_dia0_utt0_20260805_204744_full.txt,dia0_utt0,Mark,surprise,54,0,0,29,1,Speaker Not Trained
+res_dia0_utt1_20260805_204901_full.txt,dia0_utt1,Rachel,anger,162,139,139,31,0,Processed
+res_dia0_utt2_20260805_204950_full.txt,dia0_utt2,Rachel,neutral,28,0,0,50,6,Speaker Not Found
+res_dia100_utt0_20260805_205036_full.txt,dia100_utt0,Phoebe,neutral,64,64,64,10,49,Processed
+res_dia100_utt10_20260805_205218_full.txt,dia100_utt10,Phoebe,sadness,104,78,78,0,27,Processed
+res_dia100_utt11_20260805_205306_full.txt,dia100_utt11,Phoebe,neutral,104,78,78,0,27,Processed
+res_dia100_utt12_20260805_205339_full.txt,dia100_utt12,Phoebe,neutral,67,67,67,0,0,Processed
+res_dia100_utt13_20260805_205423_full.txt,dia100_utt13,Phoebe,neutral,58,0,0,3,74,Speaker Not Found
+res_dia100_utt14_20260805_205500_full.txt,dia100_utt14,Phoebe,fear,43,42,42,12,0,Processed
+res_dia100_utt15_20260805_205539_full.txt,dia100_utt15,Phoebe,fear,38,38,38,38,0,Processed
+res_dia100_utt16_20260805_205648_full.txt,dia100_utt16,Phoebe,neutral,85,0,0,40,76,Speaker Not Found
+res_dia100_utt17_20260805_205950_full.txt,dia100_utt17,Phoebe,neutral,85,0,0,40,76,Speaker Not Found
+res_dia100_utt18_20260805_210124_full.txt,dia100_utt18,Phoebe,fear,56,0,0,21,91,Speaker Not Found
+res_dia100_utt19_20260805_210222_full.txt,dia100_utt19,Phoebe,sadness,71,63,63,0,8,Processed
+res_dia100_utt1_20260805_205115_full.txt,dia100_utt1,Phoebe,neutral,67,67,67,0,49,Processed
+res_dia100_utt2_20260805_210301_full.txt,dia100_utt2,Phoebe,neutral,37,37,37,0,26,Processed
+res_dia100_utt3_20260805_210350_full.txt,dia100_utt3,Phoebe,neutral,75,75,75,0,4,Processed
+res_dia100_utt4_20260805_210556_full.txt,dia100_utt4,Phoebe,neutral,101,57,57,53,61,Processed
+res_dia100_utt5_20260805_210718_full.txt,dia100_utt5,Phoebe,sadness,101,101,101,65,1,Processed
+res_dia100_utt6_20260805_210842_full.txt,dia100_utt6,Phoebe,sadness,101,101,101,65,1,Processed
+res_dia100_utt7_20260805_211001_full.txt,dia100_utt7,Phoebe,neutral,101,101,101,65,1,Processed
+res_dia100_utt8_20260805_211028_full.txt,dia100_utt8,Phoebe,neutral,6,6,6,0,6,Processed
+res_dia100_utt9_20260805_211134_full.txt,dia100_utt9,Phoebe,neutral,63,63,63,0,5,Processed
+res_dia101_utt0_20260805_211218_full.txt,dia101_utt0,Phoebe,joy,48,9,9,3,0,Processed
+res_dia101_utt1_20260805_211355_full.txt,dia101_utt1,Monica,neutral,37,37,37,0,0,Processed
+res_dia101_utt2_20260805_211505_full.txt,dia101_utt2,Phoebe,sadness,85,0,0,2,84,Speaker Not Found
+res_dia101_utt3_20260805_211548_full.txt,dia101_utt3,Monica,neutral,46,33,33,0,46,Processed
+res_dia102_utt0_20260805_211758_full.txt,dia102_utt0,Rachel,anger,30,0,0,34,0,Speaker Not Found
+res_dia102_utt1_20260805_212010_full.txt,dia102_utt1,Phoebe,neutral,43,43,43,41,2,Processed
+res_dia102_utt2_20260805_212250_full.txt,dia102_utt2,Rachel,surprise,45,32,32,10,94,Processed
+res_dia102_utt3_20260805_212535_full.txt,dia102_utt3,Phoebe,neutral,69,69,69,28,13,Processed
+res_dia102_utt4_20260805_212649_full.txt,dia102_utt4,Rachel,anger,44,17,17,6,11,Processed
+res_dia102_utt5_20260805_212843_full.txt,dia102_utt5,Phoebe,sadness,71,47,47,37,207,Processed
+res_dia102_utt6_20260805_213149_full.txt,dia102_utt6,Rachel,anger,173,173,173,1,267,Processed
+res_dia102_utt7_20260805_213322_full.txt,dia102_utt7,Phoebe,sadness,100,100,100,1,95,Processed
+res_dia102_utt8_20260805_213424_full.txt,dia102_utt8,Rachel,neutral,27,26,26,1,51,Processed
+res_dia102_utt9_20260805_213530_full.txt,dia102_utt9,Phoebe,joy,50,50,50,0,34,Processed
+res_dia103_utt0_20260805_213636_full.txt,dia103_utt0,Ross,joy,66,66,66,0,0,Processed
+res_dia103_utt1_20260805_213721_full.txt,dia103_utt1,Joey,neutral,21,21,21,0,0,Processed
+res_dia103_utt2_20260805_213846_full.txt,dia103_utt2,Ross,fear,119,119,119,0,0,Processed
+res_dia103_utt3_20260805_214040_full.txt,dia103_utt3,Joey,surprise,146,0,0,0,87,Speaker Not Found
+res_dia103_utt4_20260805_214334_full.txt,dia103_utt4,Ross,anger,280,280,280,31,130,Processed
+res_dia103_utt5_20260805_214446_full.txt,dia103_utt5,Joey,surprise,71,71,71,8,60,Processed
+res_dia104_utt0_20260805_214619_full.txt,dia104_utt0,Joey,joy,150,134,134,2,16,Processed
+res_dia104_utt1_20260805_214730_full.txt,dia104_utt1,Cliff,surprise,61,0,0,19,0,Speaker Not Trained
+res_dia104_utt2_20260805_214805_full.txt,dia104_utt2,Joey,neutral,39,39,39,0,0,Processed
+res_dia105_utt0_20260805_215037_full.txt,dia105_utt0,Phoebe,anger,183,0,0,0,183,Speaker Not Found
+res_dia105_utt1_20260805_215224_full.txt,dia105_utt1,Phoebe,fear,136,120,120,6,65,Processed
+res_dia105_utt2_20260805_215329_full.txt,dia105_utt2,Phoebe Sr,anger,74,0,0,2,0,Speaker Not Trained
+res_dia106_utt0_20260805_215501_full.txt,dia106_utt0,Joey,anger,93,93,93,8,119,Processed
+res_dia106_utt1_20260805_215557_full.txt,dia106_utt1,Chandler,neutral,55,55,55,0,55,Processed
+res_dia106_utt2_20260805_215652_full.txt,dia106_utt2,Monica,disgust,35,33,33,15,31,Processed
+res_dia106_utt3_20260805_215733_full.txt,dia106_utt3,Chandler,sadness,33,32,32,3,31,Processed
+res_dia107_utt0_20260805_215818_full.txt,dia107_utt0,Rachel,neutral,88,88,88,0,0,Processed
+res_dia107_utt10_20260805_215958_full.txt,dia107_utt10,Rachel,neutral,180,180,180,0,0,Processed
+res_dia107_utt11_20260805_220029_full.txt,dia107_utt11,Ross,neutral,38,38,38,0,0,Processed
+res_dia107_utt12_20260805_220109_full.txt,dia107_utt12,Rachel,surprise,45,45,45,0,0,Processed
+res_dia107_utt1_20260805_215848_full.txt,dia107_utt1,Ross,neutral,24,24,24,2,0,Processed
+res_dia107_utt2_20260805_220158_full.txt,dia107_utt2,Rachel,joy,90,90,90,0,0,Processed
+res_dia107_utt3_20260805_220253_full.txt,dia107_utt3,Ross,sadness,66,57,57,5,66,Processed
+res_dia107_utt4_20260805_220331_full.txt,dia107_utt4,Rachel,neutral,26,0,0,0,26,Speaker Not Found
+res_dia107_utt5_20260805_220419_full.txt,dia107_utt5,Ross,joy,51,51,51,0,51,Processed
+res_dia107_utt6_20260805_220454_full.txt,dia107_utt6,Rachel,sadness,53,53,53,0,0,Processed
+res_dia107_utt7_20260805_220527_full.txt,dia107_utt7,Ross,sadness,45,45,45,0,0,Processed
+res_dia107_utt8_20260805_220600_full.txt,dia107_utt8,Rachel,neutral,34,33,33,1,0,Processed
+res_dia107_utt9_20260805_220635_full.txt,dia107_utt9,Ross,neutral,26,26,26,0,0,Processed
+res_dia108_utt0_20260805_220746_full.txt,dia108_utt0,Phoebe,disgust,62,56,56,41,88,Processed
+res_dia108_utt1_20260805_220853_full.txt,dia108_utt1,,,0,0,0,0,0,No MELD Match
+res_dia108_utt2_20260805_221001_full.txt,dia108_utt2,,,0,0,0,0,0,No MELD Match
+res_dia108_utt3_20260805_221142_full.txt,dia108_utt3,Phoebe,anger,113,113,113,95,22,Processed
+res_dia108_utt4_20260805_221228_full.txt,dia108_utt4,Monica,anger,52,52,52,6,36,Processed
+res_dia108_utt5_20260805_221807_full.txt,dia108_utt5,Phoebe,joy,273,260,260,229,567,Processed
+res_dia108_utt6_20260805_222124_full.txt,dia108_utt6,Monica,joy,246,243,243,64,243,Processed
+res_dia108_utt7_20260805_222300_full.txt,dia108_utt7,Phoebe,surprise,115,107,107,80,36,Processed
+res_dia108_utt8_20260805_222329_full.txt,dia108_utt8,Phoebe,surprise,32,0,0,0,6,Speaker Not Found
+res_dia108_utt9_20260805_222535_full.txt,dia108_utt9,Phoebe,joy,117,69,69,36,221,Processed
+res_dia109_utt0_20260805_222856_full.txt,dia109_utt0,Lorraine,joy,148,0,0,157,0,Speaker Not Trained
+res_dia109_utt1_20260805_223451_full.txt,dia109_utt1,Joey,joy,208,104,104,310,17,Processed
+res_dia109_utt2_20260805_224310_full.txt,dia109_utt2,Janice,anger,180,0,0,421,4,Speaker Not Trained
+res_dia109_utt3_20260805_224352_full.txt,dia109_utt3,Chandler,neutral,31,31,31,0,31,Processed
+res_dia109_utt4_20260805_224941_full.txt,dia109_utt4,Janice,surprise,87,0,0,224,26,Speaker Not Trained
+res_dia109_utt5_20260805_230009_full.txt,dia109_utt5,Janice,anger,177,0,0,490,175,Speaker Not Trained
+res_dia109_utt6_20260805_230104_full.txt,dia109_utt6,Joey,neutral,35,35,35,35,40,Processed
+res_dia109_utt7_20260805_230200_full.txt,dia109_utt7,Chandler,surprise,51,51,51,0,51,Processed
+res_dia10_utt0_20260805_230345_full.txt,dia10_utt0,Joey,anger,40,37,37,75,70,Processed
+res_dia10_utt1_20260805_230458_full.txt,dia10_utt1,Joey,neutral,66,66,66,0,132,Processed
+res_dia10_utt2_20260805_230543_full.txt,dia10_utt2,Joey,neutral,42,42,42,2,76,Processed
+res_dia10_utt3_20260805_230726_full.txt,dia10_utt3,Ross,neutral,79,78,78,4,401,Processed
+res_dia110_utt0_20260805_230806_full.txt,dia110_utt0,Joey,surprise,35,35,35,5,38,Processed
+res_dia110_utt1_20260805_230937_full.txt,dia110_utt1,Ross,neutral,53,53,53,54,126,Processed
+res_dia110_utt2_20260805_231401_full.txt,dia110_utt2,Ross,neutral,90,114,114,226,185,Processed
+res_dia110_utt3_20260805_231519_full.txt,dia110_utt3,Joey,surprise,15,0,0,47,23,Speaker Not Found
+res_dia110_utt4_20260805_231645_full.txt,dia110_utt4,Ross,joy,67,67,67,10,116,Processed
+res_dia110_utt5_20260805_231919_full.txt,dia110_utt5,Ross,neutral,152,152,152,43,229,Processed
+res_dia110_utt6_20260805_232114_full.txt,dia110_utt6,Chandler,sadness,86,86,86,57,95,Processed
+res_dia110_utt7_20260805_232712_full.txt,dia110_utt7,Ross,joy,189,192,192,210,303,Processed
+res_dia110_utt8_20260805_233055_full.txt,dia110_utt8,Chandler,disgust,121,121,121,26,312,Processed
+res_dia111_utt0_20260805_233332_full.txt,dia111_utt0,Mrs. Bing,neutral,126,0,0,53,135,Speaker Not Trained
+res_dia111_utt10_20260805_233620_full.txt,dia111_utt10,Chandler,anger,65,65,65,0,0,Processed
+res_dia111_utt11_20260805_233749_full.txt,dia111_utt11,Ross,neutral,64,22,22,70,0,Processed
+res_dia111_utt12_20260805_233901_full.txt,dia111_utt12,Joey,neutral,128,87,87,27,5,Processed
+res_dia111_utt13_20260805_233936_full.txt,dia111_utt13,Ross,surprise,25,25,25,0,13,Processed
+res_dia111_utt14_20260805_234018_full.txt,dia111_utt14,Joey,neutral,64,59,59,6,0,Processed
+res_dia111_utt1_20260805_233534_full.txt,dia111_utt1,Chandler,neutral,105,75,75,31,112,Processed
+res_dia111_utt2_20260805_234312_full.txt,dia111_utt2,Mrs. Bing,joy,87,0,0,114,63,Speaker Not Trained
+res_dia111_utt3_20260805_234412_full.txt,dia111_utt3,Chandler,anger,144,144,144,2,15,Processed
+res_dia111_utt4_20260805_234647_full.txt,dia111_utt4,Mrs. Bing,sadness,190,0,0,190,0,Speaker Not Trained
+res_dia111_utt5_20260805_234715_full.txt,dia111_utt5,Chandler,anger,18,18,18,0,6,Processed
+res_dia111_utt6_20260805_234809_full.txt,dia111_utt6,Mrs. Bing,sadness,39,0,0,8,0,Speaker Not Trained
+res_dia111_utt7_20260805_234902_full.txt,dia111_utt7,Mrs. Bing,sadness,56,0,0,57,55,Speaker Not Trained
+res_dia111_utt8_20260805_234952_full.txt,dia111_utt8,Mrs. Bing,sadness,93,0,0,94,92,Speaker Not Trained
+res_dia111_utt9_20260805_235020_full.txt,dia111_utt9,Mrs. Bing,fear,56,0,0,23,23,Speaker Not Trained
+res_dia112_utt0_20260805_235049_full.txt,dia112_utt0,Phoebe,neutral,25,8,8,48,2,Processed
+res_dia112_utt1_20260805_235127_full.txt,dia112_utt1,Monica,neutral,57,48,48,53,72,Processed
+res_dia112_utt2_20260805_235150_full.txt,dia112_utt2,Phoebe,disgust,77,12,12,14,59,Processed
+res_dia112_utt3_20260805_235235_full.txt,dia112_utt3,Phoebe,disgust,116,113,113,3,116,Processed
+res_dia112_utt4_20260805_235246_full.txt,dia112_utt4,Monica,surprise,16,16,16,0,14,Processed
+res_dia112_utt5_20260805_235313_full.txt,dia112_utt5,Phoebe,neutral,68,63,63,5,68,Processed
+res_dia112_utt6_20260805_235338_full.txt,dia112_utt6,Phoebe,anger,71,69,69,2,71,Processed
+res_dia11_utt0_20260805_235353_full.txt,dia11_utt0,Rachel,sadness,3,0,0,1,2,Speaker Not Found
+res_dia11_utt1_20260805_235420_full.txt,dia11_utt1,Rachel,fear,85,0,0,14,9,Speaker Not Found
+res_dia11_utt2_20260805_235444_full.txt,dia11_utt2,Rachel,neutral,50,0,0,33,0,Speaker Not Found
+res_dia11_utt3_20260805_235513_full.txt,dia11_utt3,Phoebe,neutral,108,108,108,30,0,Processed
+res_dia11_utt4_20260805_235529_full.txt,dia11_utt4,Rachel,neutral,32,15,15,8,21,Processed
+res_dia12_utt0_20260805_235613_full.txt,dia12_utt0,Ross,anger,211,189,189,7,7,Processed
+res_dia12_utt10_20260805_235806_full.txt,dia12_utt10,Chandler,neutral,131,131,131,6,256,Processed
+res_dia12_utt11_20260805_235829_full.txt,dia12_utt11,Monica,joy,60,60,60,5,45,Processed
+res_dia12_utt12_20260805_235843_full.txt,dia12_utt12,Chandler,joy,22,0,0,1,8,Speaker Not Found
+res_dia12_utt13_20260805_235859_full.txt,dia12_utt13,Monica,neutral,46,46,46,5,6,Processed
+res_dia12_utt14_20260805_235912_full.txt,dia12_utt14,Chandler,neutral,33,33,33,0,0,Processed
+res_dia12_utt15_20260805_235936_full.txt,dia12_utt15,Ross,neutral,104,104,104,0,0,Processed
+res_dia12_utt16_20260805_235952_full.txt,dia12_utt16,Chandler,neutral,34,34,34,2,34,Processed
+res_dia12_utt17_20260806_000024_full.txt,dia12_utt17,Ross,neutral,56,56,56,32,36,Processed
+res_dia12_utt18_20260806_000044_full.txt,dia12_utt18,Monica,neutral,27,27,27,0,27,Processed
+res_dia12_utt19_20260806_000108_full.txt,dia12_utt19,Ross,joy,88,86,86,2,0,Processed
+res_dia12_utt1_20260805_235636_full.txt,dia12_utt1,Monica,neutral,75,75,75,0,6,Processed
+res_dia12_utt2_20260806_000202_full.txt,dia12_utt2,Ross,sadness,203,203,203,0,164,Processed
+res_dia12_utt3_20260806_000230_full.txt,dia12_utt3,Ross,anger,112,112,112,0,9,Processed
+res_dia12_utt4_20260806_000250_full.txt,dia12_utt4,Chandler,anger,55,0,0,0,1,Speaker Not Found
+res_dia12_utt5_20260806_000310_full.txt,dia12_utt5,Ross,anger,44,44,44,17,0,Processed
+res_dia12_utt6_20260806_000417_full.txt,dia12_utt6,Ross,sadness,317,169,169,3,96,Processed
+res_dia12_utt7_20260806_000453_full.txt,dia12_utt7,Ross,sadness,90,53,53,12,89,Processed
+res_dia12_utt8_20260806_000516_full.txt,dia12_utt8,Ross,joy,55,55,55,2,55,Processed
+res_dia12_utt9_20260806_000615_full.txt,dia12_utt9,Ross,neutral,118,118,118,118,53,Processed
+res_dia13_utt0_20260806_000646_full.txt,dia13_utt0,Roger,neutral,28,0,0,37,70,Speaker Not Trained
+res_dia13_utt1_20260806_000739_full.txt,dia13_utt1,Phoebe,neutral,63,60,60,64,144,Processed
+res_dia13_utt2_20260806_000819_full.txt,dia13_utt2,Roger,neutral,54,0,0,54,87,Speaker Not Trained
+res_dia13_utt3_20260806_000849_full.txt,dia13_utt3,Phoebe,surprise,58,58,58,58,15,Processed
+res_dia13_utt4_20260806_000946_full.txt,dia13_utt4,Roger,neutral,157,0,0,34,171,Speaker Not Trained
+res_dia13_utt5_20260806_001139_full.txt,dia13_utt5,Roger,anger,324,0,0,311,119,Speaker Not Trained
+res_dia13_utt6_20260806_001227_full.txt,dia13_utt6,Roger,anger,107,0,0,71,187,Speaker Not Trained
+res_dia13_utt7_20260806_001245_full.txt,dia13_utt7,Roger,anger,67,0,0,0,3,Speaker Not Trained
+res_dia14_utt0_20260806_001316_full.txt,dia14_utt0,Phoebe,surprise,65,61,61,39,10,Processed
+res_dia14_utt10_20260806_001402_full.txt,dia14_utt10,Chandler,neutral,40,23,23,18,15,Processed
+res_dia14_utt1_20260806_001342_full.txt,dia14_utt1,Joey,joy,65,0,0,39,10,Speaker Not Found
+res_dia14_utt2_20260806_001426_full.txt,dia14_utt2,Joey,joy,65,0,0,39,10,Speaker Not Found
+res_dia14_utt3_20260806_001437_full.txt,dia14_utt3,Joey,joy,7,7,7,0,16,Processed
+res_dia14_utt4_20260806_001513_full.txt,dia14_utt4,Joey,neutral,63,63,63,0,106,Processed
+res_dia14_utt5_20260806_001530_full.txt,dia14_utt5,Joey,neutral,46,46,46,0,27,Processed
+res_dia14_utt6_20260806_001554_full.txt,dia14_utt6,Phoebe,joy,51,51,51,32,3,Processed
+res_dia14_utt7_20260806_001615_full.txt,dia14_utt7,Joey,joy,34,0,0,32,2,Speaker Not Found
+res_dia14_utt8_20260806_001630_full.txt,dia14_utt8,Chandler,neutral,25,25,25,0,0,Processed
+res_dia14_utt9_20260806_001654_full.txt,dia14_utt9,Phoebe,joy,85,85,85,6,0,Processed
+res_dia15_utt0_20260806_001829_full.txt,dia15_utt0,Phoebe,joy,144,141,141,149,201,Processed
+res_dia15_utt1_20260806_001934_full.txt,dia15_utt1,Gary,joy,67,0,0,49,157,Speaker Not Trained
+res_dia15_utt2_20260806_002007_full.txt,dia15_utt2,Phoebe,joy,31,23,23,25,76,Processed
+res_dia15_utt3_20260806_002040_full.txt,dia15_utt3,Phoebe,neutral,58,17,17,13,101,Processed
+res_dia15_utt4_20260806_002108_full.txt,dia15_utt4,Joey,neutral,46,0,0,5,90,Speaker Not Found
+res_dia15_utt5_20260806_002141_full.txt,dia15_utt5,Joey,anger,135,135,135,13,35,Processed
+res_dia16_utt0_20260806_002214_full.txt,dia16_utt0,Monica,neutral,49,43,43,66,47,Processed
+res_dia16_utt1_20260806_002242_full.txt,dia16_utt1,Joey,neutral,41,41,41,44,59,Processed
+res_dia16_utt2_20260806_002317_full.txt,dia16_utt2,Joey,neutral,81,79,79,39,112,Processed
+res_dia16_utt3_20260806_002459_full.txt,dia16_utt3,A Waiter,neutral,151,0,0,214,34,Speaker Not Trained
+res_dia16_utt4_20260806_002551_full.txt,dia16_utt4,Joey,surprise,43,43,43,105,36,Processed
+res_dia16_utt5_20260806_002723_full.txt,dia16_utt5,The Waiter,neutral,145,0,0,152,106,Speaker Not Trained
+res_dia16_utt6_20260806_002939_full.txt,dia16_utt6,Monica,neutral,70,71,71,300,62,Processed
+res_dia16_utt7_20260806_003313_full.txt,dia16_utt7,Monica,neutral,147,27,27,572,74,Processed
+res_dia16_utt8_20260806_003401_full.txt,dia16_utt8,The Waiter,neutral,31,0,0,93,34,Speaker Not Trained
+res_dia16_utt9_20260806_003450_full.txt,dia16_utt9,Monica,anger,97,97,97,36,82,Processed
+res_dia17_utt0_20260806_003522_full.txt,dia17_utt0,Ross,neutral,75,19,19,71,6,Processed
+res_dia17_utt10_20260806_003621_full.txt,dia17_utt10,Monica,anger,68,68,68,0,0,Processed
+res_dia17_utt11_20260806_003649_full.txt,dia17_utt11,Rachel,sadness,52,0,0,57,4,Speaker Not Found
+res_dia17_utt12_20260806_003724_full.txt,dia17_utt12,Ross,disgust,108,108,108,52,0,Processed
+res_dia17_utt13_20260806_003801_full.txt,dia17_utt13,Rachel,anger,140,137,137,17,58,Processed
+res_dia17_utt14_20260806_003833_full.txt,dia17_utt14,Ross,disgust,98,98,98,26,29,Processed
+res_dia17_utt15_20260806_003849_full.txt,dia17_utt15,Ross,neutral,48,48,48,1,0,Processed
+res_dia17_utt16_20260806_003910_full.txt,dia17_utt16,Phoebe,fear,68,68,68,0,13,Processed
+res_dia17_utt17_20260806_003953_full.txt,dia17_utt17,Phoebe,fear,90,78,78,66,8,Processed
+res_dia17_utt18_20260806_004011_full.txt,dia17_utt18,Phoebe,neutral,71,71,71,0,0,Processed
+res_dia17_utt19_20260806_004028_full.txt,dia17_utt19,Phoebe,neutral,57,57,57,0,0,Processed
+res_dia17_utt1_20260806_003600_full.txt,dia17_utt1,Monica,neutral,88,83,83,68,27,Processed
+res_dia17_utt20_20260806_004117_full.txt,dia17_utt20,Rachel,neutral,55,55,55,0,0,Processed
+res_dia17_utt21_20260806_004129_full.txt,dia17_utt21,Phoebe,neutral,31,31,31,0,0,Processed
+res_dia17_utt22_20260806_004159_full.txt,dia17_utt22,Rachel,neutral,111,0,0,26,3,Speaker Not Found
+res_dia17_utt23_20260806_004218_full.txt,dia17_utt23,Rachel,neutral,67,66,66,1,0,Processed
+res_dia17_utt24_20260806_004252_full.txt,dia17_utt24,Ross,anger,78,78,78,7,71,Processed
+res_dia17_utt25_20260806_004325_full.txt,dia17_utt25,Rachel,neutral,142,142,142,5,8,Processed
+res_dia17_utt26_20260806_004456_full.txt,dia17_utt26,Ross,anger,292,292,292,0,292,Processed
+res_dia17_utt27_20260806_004530_full.txt,dia17_utt27,Ross,anger,105,105,105,0,105,Processed
+res_dia17_utt28_20260806_004557_full.txt,dia17_utt28,Rachel,sadness,84,79,79,14,0,Processed
+res_dia17_utt29_20260806_004647_full.txt,dia17_utt29,Ross,anger,122,106,106,67,71,Processed
+res_dia17_utt2_20260806_004100_full.txt,dia17_utt2,Joey,neutral,102,101,101,19,0,Processed
+res_dia17_utt30_20260806_004731_full.txt,dia17_utt30,Rachel,anger,54,44,44,11,53,Processed
+res_dia17_utt31_20260806_004820_full.txt,dia17_utt31,Rachel,anger,138,123,123,27,39,Processed
+res_dia17_utt32_20260806_004839_full.txt,dia17_utt32,Ross,neutral,44,30,30,0,44,Processed
+res_dia17_utt3_20260806_004707_full.txt,dia17_utt3,Phoebe,disgust,30,21,21,18,10,Processed
+res_dia17_utt4_20260806_004855_full.txt,dia17_utt4,Chandler,disgust,40,40,40,1,14,Processed
+res_dia17_utt5_20260806_004933_full.txt,dia17_utt5,Janice,joy,142,0,0,23,15,Speaker Not Trained
+res_dia17_utt6_20260806_004956_full.txt,dia17_utt6,Chandler,anger,45,45,45,45,0,Processed
+res_dia17_utt7_20260806_005042_full.txt,dia17_utt7,Janice,anger,97,0,0,97,0,Speaker Not Trained
+res_dia17_utt8_20260806_005117_full.txt,dia17_utt8,Monica,anger,100,67,67,8,62,Processed
+res_dia17_utt9_20260806_005138_full.txt,dia17_utt9,Monica,anger,56,56,56,8,0,Processed
+res_dia18_utt0_20260806_005234_full.txt,dia18_utt0,Rachel,neutral,126,0,0,102,36,Speaker Not Found
+res_dia18_utt1_20260806_005303_full.txt,dia18_utt1,Joey,neutral,56,0,0,0,56,Speaker Not Found
+res_dia18_utt2_20260806_005411_full.txt,dia18_utt2,Rachel,neutral,130,0,0,49,170,Speaker Not Found
+res_dia19_utt0_20260806_005428_full.txt,dia19_utt0,Joey,surprise,33,0,0,8,62,Speaker Not Found
+res_dia1_utt0_20260806_005454_full.txt,dia1_utt0,Joey,neutral,48,49,49,16,49,Processed
+res_dia1_utt1_20260806_005514_full.txt,dia1_utt1,Joey,joy,16,9,9,16,17,Processed
+res_dia1_utt2_20260806_005555_full.txt,dia1_utt2,Joey,joy,76,73,73,19,81,Processed
+res_dia1_utt3_20260806_005616_full.txt,dia1_utt3,Joey,joy,55,49,49,9,13,Processed
+res_dia1_utt4_20260806_005640_full.txt,dia1_utt4,Joey,joy,68,68,68,2,2,Processed
+res_dia1_utt5_20260806_005723_full.txt,dia1_utt5,Joey,joy,131,131,131,0,102,Processed
+res_dia1_utt6_20260806_005800_full.txt,dia1_utt6,Joey,joy,55,29,29,29,81,Processed
+res_dia1_utt7_20260806_005840_full.txt,dia1_utt7,Joey,joy,46,35,35,12,77,Processed
+res_dia20_utt0_20260806_005940_full.txt,dia20_utt0,Rachel,anger,69,69,69,0,138,Processed
+res_dia20_utt1_20260806_010033_full.txt,dia20_utt1,Joey,neutral,48,48,48,43,96,Processed
+res_dia20_utt2_20260806_010126_full.txt,dia20_utt2,Rachel,neutral,167,0,0,2,187,Speaker Not Found
+res_dia20_utt3_20260806_010143_full.txt,dia20_utt3,Joey,neutral,64,64,64,0,0,Processed
+res_dia20_utt4_20260806_010205_full.txt,dia20_utt4,Rachel,neutral,49,49,49,3,46,Processed
+res_dia20_utt5_20260806_010226_full.txt,dia20_utt5,Joey,neutral,75,75,75,0,49,Processed
+res_dia20_utt6_20260806_010322_full.txt,dia20_utt6,Rachel,joy,85,85,85,0,164,Processed
+res_dia20_utt7_20260806_010345_full.txt,dia20_utt7,Joey,neutral,57,57,57,5,54,Processed
+res_dia21_utt0_20260806_010446_full.txt,dia21_utt0,Phoebe,neutral,63,0,0,126,0,Speaker Not Found
+res_dia21_utt1_20260806_010546_full.txt,dia21_utt1,Duncan,neutral,133,0,0,133,0,Speaker Not Trained
+res_dia21_utt2_20260806_010602_full.txt,dia21_utt2,Phoebe,neutral,34,34,34,0,4,Processed
+res_dia21_utt3_20260806_010733_full.txt,dia21_utt3,Phoebe,neutral,261,261,261,97,100,Processed
+res_dia21_utt4_20260806_010819_full.txt,dia21_utt4,Phoebe,sadness,150,133,133,20,45,Processed
+res_dia21_utt5_20260806_010842_full.txt,dia21_utt5,Duncan,joy,28,0,0,28,28,Speaker Not Trained
+res_dia21_utt6_20260806_010914_full.txt,dia21_utt6,Phoebe,surprise,56,56,56,35,21,Processed
+res_dia22_utt0_20260806_010937_full.txt,dia22_utt0,Chandler,joy,76,15,15,2,17,Processed
+res_dia22_utt10_20260806_011102_full.txt,dia22_utt10,Monica,anger,236,236,236,0,155,Processed
+res_dia22_utt11_20260806_011121_full.txt,dia22_utt11,Chandler,neutral,32,32,32,0,32,Processed
+res_dia22_utt12_20260806_011141_full.txt,dia22_utt12,Monica,joy,49,49,49,0,43,Processed
+res_dia22_utt13_20260806_011159_full.txt,dia22_utt13,Monica,joy,65,60,60,0,5,Processed
+res_dia22_utt14_20260806_011212_full.txt,dia22_utt14,Monica,neutral,24,24,24,1,0,Processed
+res_dia22_utt15_20260806_011301_full.txt,dia22_utt15,Monica,joy,104,104,104,78,26,Processed
+res_dia22_utt16_20260806_011326_full.txt,dia22_utt16,Monica,neutral,50,50,50,25,25,Processed
+res_dia22_utt17_20260806_011353_full.txt,dia22_utt17,Chandler,joy,71,71,71,0,42,Processed
+res_dia22_utt18_20260806_011423_full.txt,dia22_utt18,Monica,joy,67,67,67,0,67,Processed
+res_dia22_utt19_20260806_011441_full.txt,dia22_utt19,Chandler,surprise,32,32,32,0,32,Processed
+res_dia22_utt1_20260806_010956_full.txt,dia22_utt1,Monica,neutral,61,59,59,2,2,Processed
+res_dia22_utt20_20260806_011605_full.txt,dia22_utt20,Monica,neutral,73,73,73,39,0,Processed
+res_dia22_utt21_20260806_011626_full.txt,dia22_utt21,Chandler,neutral,45,34,34,11,0,Processed
+res_dia22_utt2_20260806_011531_full.txt,dia22_utt2,Chandler,neutral,237,237,237,3,22,Processed
+res_dia22_utt3_20260806_011644_full.txt,dia22_utt3,Monica,joy,29,29,29,0,29,Processed
+res_dia22_utt4_20260806_011710_full.txt,dia22_utt4,Chandler,sadness,50,50,50,0,50,Processed
+res_dia22_utt5_20260806_011729_full.txt,dia22_utt5,Monica,neutral,60,60,60,0,15,Processed
+res_dia22_utt6_20260806_011758_full.txt,dia22_utt6,Chandler,sadness,105,90,90,0,15,Processed
+res_dia22_utt7_20260806_011819_full.txt,dia22_utt7,Monica,surprise,36,36,36,0,36,Processed
+res_dia22_utt8_20260806_011842_full.txt,dia22_utt8,Chandler,sadness,54,54,54,4,50,Processed
+res_dia22_utt9_20260806_011908_full.txt,dia22_utt9,Monica,surprise,60,60,60,0,60,Processed
+res_dia23_utt0_20260806_011922_full.txt,dia23_utt0,Rachel,joy,38,38,38,0,0,Processed
+res_dia23_utt1_20260806_011939_full.txt,dia23_utt1,Danny,neutral,50,0,0,10,0,Speaker Not Trained
+res_dia23_utt2_20260806_012015_full.txt,dia23_utt2,Rachel,neutral,143,113,113,30,0,Processed
+res_dia24_utt0_20260806_012037_full.txt,dia24_utt0,Phoebe,neutral,45,45,45,0,45,Processed
+res_dia24_utt1_20260806_012049_full.txt,dia24_utt1,Rachel,joy,12,0,0,0,12,Speaker Not Found
+res_dia24_utt2_20260806_012109_full.txt,dia24_utt2,Phoebe,neutral,45,45,45,0,44,Processed
+res_dia24_utt3_20260806_012131_full.txt,dia24_utt3,Rachel,joy,48,18,18,24,6,Processed
+res_dia25_utt0_20260806_012204_full.txt,dia25_utt0,Monica,neutral,40,23,23,34,23,Processed
+res_dia25_utt10_20260806_012250_full.txt,dia25_utt10,Rachel,anger,76,72,72,5,0,Processed
+res_dia25_utt11_20260806_012309_full.txt,dia25_utt11,Ross,neutral,24,24,24,10,15,Processed
+res_dia25_utt12_20260806_012348_full.txt,dia25_utt12,Monica,neutral,156,0,0,1,48,Speaker Not Found
+res_dia25_utt13_20260806_012411_full.txt,dia25_utt13,Rachel,neutral,64,0,0,8,21,Speaker Not Found
+res_dia25_utt14_20260806_012432_full.txt,dia25_utt14,Monica,neutral,72,72,72,0,0,Processed
+res_dia25_utt15_20260806_012441_full.txt,dia25_utt15,Rachel,neutral,3,3,3,0,0,Processed
+res_dia25_utt16_20260806_012453_full.txt,dia25_utt16,Ross,anger,26,26,26,0,0,Processed
+res_dia25_utt1_20260806_012228_full.txt,dia25_utt1,Rachel,neutral,83,61,61,0,22,Processed
+res_dia25_utt2_20260806_012522_full.txt,dia25_utt2,Monica,sadness,42,12,12,28,38,Processed
+res_dia25_utt3_20260806_012551_full.txt,dia25_utt3,Rachel,neutral,42,0,0,28,38,Speaker Not Found
+res_dia25_utt4_20260806_012556_full.txt,dia25_utt4,Rachel,anger,3,0,0,0,3,Speaker Not Found
+res_dia25_utt5_20260806_012620_full.txt,dia25_utt5,Monica,surprise,39,26,26,0,39,Processed
+res_dia25_utt6_20260806_012638_full.txt,dia25_utt6,Ross,joy,47,47,47,0,12,Processed
+res_dia25_utt7_20260806_012658_full.txt,dia25_utt7,Rachel,neutral,37,0,0,22,2,Speaker Not Found
+res_dia25_utt8_20260806_012729_full.txt,dia25_utt8,Ross,anger,128,128,128,25,0,Processed
+res_dia25_utt9_20260806_012756_full.txt,dia25_utt9,Rachel,neutral,60,0,0,22,0,Speaker Not Found
+res_dia26_utt0_20260806_012828_full.txt,dia26_utt0,Joey,joy,69,68,68,15,47,Processed
+res_dia27_utt0_20260806_012842_full.txt,dia27_utt0,Man,joy,25,0,0,0,0,Speaker Not Trained
+res_dia27_utt1_20260806_012859_full.txt,dia27_utt1,Phoebe,neutral,18,0,0,18,0,Speaker Not Found
+res_dia28_utt0_20260806_012937_full.txt,dia28_utt0,Man,neutral,88,0,0,22,95,Speaker Not Trained
+res_dia28_utt10_20260806_013034_full.txt,dia28_utt10,Man,neutral,114,0,0,1,67,Speaker Not Trained
+res_dia28_utt11_20260806_013242_full.txt,dia28_utt11,Man,neutral,239,0,0,230,301,Speaker Not Trained
+res_dia28_utt12_20260806_013256_full.txt,dia28_utt12,Phoebe,neutral,25,18,18,0,25,Processed
+res_dia28_utt13_20260806_013336_full.txt,dia28_utt13,Man,neutral,100,0,0,0,155,Speaker Not Trained
+res_dia28_utt14_20260806_013358_full.txt,dia28_utt14,Phoebe,joy,41,41,41,0,41,Processed
+res_dia28_utt15_20260806_013459_full.txt,dia28_utt15,Phoebe,anger,135,17,17,46,221,Processed
+res_dia28_utt16_20260806_013524_full.txt,dia28_utt16,Joey,neutral,58,58,58,21,12,Processed
+res_dia28_utt1_20260806_013000_full.txt,dia28_utt1,Phoebe,joy,65,61,61,4,65,Processed
+res_dia28_utt2_20260806_013544_full.txt,dia28_utt2,Man,neutral,62,0,0,1,48,Speaker Not Trained
+res_dia28_utt3_20260806_013617_full.txt,dia28_utt3,Phoebe,sadness,103,102,102,45,0,Processed
+res_dia28_utt4_20260806_013643_full.txt,dia28_utt4,Man,neutral,37,0,0,37,37,Speaker Not Trained
+res_dia28_utt5_20260806_013712_full.txt,dia28_utt5,Phoebe,neutral,58,58,58,0,77,Processed
+res_dia28_utt6_20260806_013727_full.txt,dia28_utt6,Phoebe,neutral,32,32,32,0,39,Processed
+res_dia28_utt7_20260806_013806_full.txt,dia28_utt7,Phoebe,joy,98,98,98,0,144,Processed
+res_dia28_utt8_20260806_013820_full.txt,dia28_utt8,Phoebe,neutral,42,42,42,0,19,Processed
+res_dia28_utt9_20260806_013837_full.txt,dia28_utt9,Man,sadness,26,0,0,26,0,Speaker Not Trained
+res_dia29_utt0_20260806_013910_full.txt,dia29_utt0,Chandler,neutral,91,91,91,38,66,Processed
+res_dia29_utt10_20260806_014106_full.txt,dia29_utt10,Chandler,fear,61,51,51,134,69,Processed
+res_dia29_utt11_20260806_014137_full.txt,dia29_utt11,Ross,joy,68,68,68,68,0,Processed
+res_dia29_utt12_20260806_014230_full.txt,dia29_utt12,Ross,joy,72,72,72,118,16,Processed
+res_dia29_utt1_20260806_013949_full.txt,dia29_utt1,Chandler,surprise,91,91,91,85,0,Processed
+res_dia29_utt2_20260806_014316_full.txt,dia29_utt2,Ross,neutral,122,122,122,90,18,Processed
+res_dia29_utt3_20260806_014401_full.txt,dia29_utt3,Ross,surprise,56,56,56,68,0,Processed
+res_dia29_utt4_20260806_014431_full.txt,dia29_utt4,Chandler,surprise,32,31,31,56,0,Processed
+res_dia29_utt5_20260806_014537_full.txt,dia29_utt5,Ross,surprise,63,63,63,119,1,Processed
+res_dia29_utt6_20260806_014739_full.txt,dia29_utt6,Chandler,fear,116,121,121,237,66,Processed
+res_dia29_utt7_20260806_014853_full.txt,dia29_utt7,Ross,joy,68,68,68,138,55,Processed
+res_dia29_utt8_20260806_014926_full.txt,dia29_utt8,Chandler,neutral,91,92,92,32,20,Processed
+res_dia29_utt9_20260806_014952_full.txt,dia29_utt9,Ross,neutral,44,44,44,23,2,Processed
+res_dia2_utt0_20260806_015011_full.txt,dia2_utt0,Ross,neutral,25,0,0,8,27,Speaker Not Found
+res_dia2_utt10_20260806_015116_full.txt,dia2_utt10,Ross,neutral,25,0,0,11,17,Speaker Not Found
+res_dia2_utt1_20260806_015100_full.txt,dia2_utt1,Rachel,neutral,70,0,0,67,46,Speaker Not Found
+res_dia2_utt2_20260806_015142_full.txt,dia2_utt2,Ross,sadness,75,61,61,5,0,Processed
+res_dia2_utt3_20260806_015202_full.txt,dia2_utt3,Ross,surprise,43,0,0,16,22,Speaker Not Found
+res_dia2_utt4_20260806_015239_full.txt,dia2_utt4,Rachel,anger,82,81,81,41,0,Processed
+res_dia2_utt5_20260806_015257_full.txt,dia2_utt5,Ross,anger,50,50,50,0,0,Processed
+res_dia2_utt6_20260806_015318_full.txt,dia2_utt6,Ross,anger,53,34,34,5,9,Processed
+res_dia2_utt7_20260806_015331_full.txt,dia2_utt7,Ross,joy,19,0,0,3,8,Speaker Not Found
+res_dia2_utt8_20260806_015348_full.txt,dia2_utt8,Ross,joy,30,0,0,7,23,Speaker Not Found
+res_dia2_utt9_20260806_015406_full.txt,dia2_utt9,Ross,neutral,48,0,0,3,21,Speaker Not Found
+res_dia30_utt0_20260806_015441_full.txt,dia30_utt0,Rachel,surprise,33,0,0,26,68,Speaker Not Found
+res_dia30_utt1_20260806_015731_full.txt,dia30_utt1,Janice,joy,109,0,0,296,229,Speaker Not Trained
+res_dia30_utt2_20260806_015841_full.txt,dia30_utt2,Rachel,joy,87,83,83,119,85,Processed
+res_dia30_utt3_20260806_020125_full.txt,dia30_utt3,Janice,joy,137,0,0,258,156,Speaker Not Trained
+res_dia30_utt4_20260806_020151_full.txt,dia30_utt4,Rachel,surprise,25,21,21,19,25,Processed
+res_dia30_utt5_20260806_020559_full.txt,dia30_utt5,Janice,disgust,273,0,0,393,323,Speaker Not Trained
+res_dia31_utt0_20260806_020616_full.txt,dia31_utt0,Rachel,neutral,45,25,25,3,0,Processed
+res_dia32_utt0_20260806_020655_full.txt,dia32_utt0,Phoebe,surprise,174,174,174,0,7,Processed
+res_dia32_utt10_20260806_020807_full.txt,dia32_utt10,Phoebe Sr,sadness,42,0,0,29,15,Speaker Not Trained
+res_dia32_utt11_20260806_020852_full.txt,dia32_utt11,Phoebe Sr,sadness,160,0,0,13,38,Speaker Not Trained
+res_dia32_utt12_20260806_020920_full.txt,dia32_utt12,Phoebe,joy,53,57,57,49,0,Processed
+res_dia32_utt1_20260806_020739_full.txt,dia32_utt1,Phoebe Sr,joy,132,0,0,13,109,Speaker Not Trained
+res_dia32_utt2_20260806_020951_full.txt,dia32_utt2,Phoebe,neutral,70,56,56,14,65,Processed
+res_dia32_utt3_20260806_020956_full.txt,dia32_utt3,Phoebe Sr,neutral,4,0,0,2,6,Speaker Not Trained
+res_dia32_utt4_20260806_021116_full.txt,dia32_utt4,Phoebe,neutral,228,142,142,48,196,Processed
+res_dia32_utt5_20260806_021152_full.txt,dia32_utt5,Phoebe Sr,sadness,98,0,0,54,3,Speaker Not Trained
+res_dia32_utt6_20260806_021232_full.txt,dia32_utt6,Phoebe,neutral,136,136,136,1,126,Processed
+res_dia32_utt7_20260806_021343_full.txt,dia32_utt7,Phoebe Sr,neutral,127,0,0,103,48,Speaker Not Trained
+res_dia32_utt8_20260806_021411_full.txt,dia32_utt8,Phoebe,surprise,71,71,71,0,68,Processed
+res_dia32_utt9_20260806_021437_full.txt,dia32_utt9,Phoebe Sr,sadness,36,0,0,36,36,Speaker Not Trained
+res_dia33_utt0_20260806_021547_full.txt,dia33_utt0,Phoebe,sadness,191,157,157,80,2,Processed
+res_dia33_utt10_20260806_021658_full.txt,dia33_utt10,Phoebe,anger,176,176,176,14,32,Processed
+res_dia33_utt1_20260806_021613_full.txt,dia33_utt1,Phoebe,anger,99,96,96,3,0,Processed
+res_dia33_utt2_20260806_021737_full.txt,dia33_utt2,Monica,neutral,175,174,174,0,11,Processed
+res_dia33_utt3_20260806_021752_full.txt,dia33_utt3,Rachel,neutral,40,40,40,0,0,Processed
+res_dia33_utt4_20260806_021808_full.txt,dia33_utt4,Monica,surprise,36,36,36,0,0,Processed
+res_dia33_utt5_20260806_021827_full.txt,dia33_utt5,Rachel,sadness,56,56,56,0,0,Processed
+res_dia33_utt6_20260806_021857_full.txt,dia33_utt6,Rachel,sadness,125,121,121,4,0,Processed
+res_dia33_utt7_20260806_021924_full.txt,dia33_utt7,Monica,neutral,100,45,45,1,44,Processed
+res_dia33_utt8_20260806_021943_full.txt,dia33_utt8,Rachel,neutral,29,0,0,21,8,Speaker Not Found
+res_dia33_utt9_20260806_022014_full.txt,dia33_utt9,Monica,anger,82,15,15,30,32,Processed
+res_dia34_utt0_20260806_022046_full.txt,dia34_utt0,Monica,neutral,33,33,33,2,102,Processed
+res_dia34_utt10_20260806_022246_full.txt,dia34_utt10,Monica,neutral,100,100,100,0,430,Processed
+res_dia34_utt11_20260806_022331_full.txt,dia34_utt11,Monica,neutral,48,48,48,0,227,Processed
+res_dia34_utt12_20260806_022503_full.txt,dia34_utt12,Rachel,surprise,137,142,142,7,481,Processed
+res_dia34_utt13_20260806_022624_full.txt,dia34_utt13,Monica,surprise,111,66,66,0,401,Processed
+res_dia34_utt14_20260806_022743_full.txt,dia34_utt14,Rachel,anger,111,54,54,0,401,Processed
+res_dia34_utt15_20260806_022816_full.txt,dia34_utt15,Rachel,anger,46,43,43,5,143,Processed
+res_dia34_utt16_20260806_022905_full.txt,dia34_utt16,Rachel,neutral,75,72,72,32,195,Processed
+res_dia34_utt17_20260806_023005_full.txt,dia34_utt17,Monica,anger,87,65,65,6,305,Processed
+res_dia34_utt18_20260806_023037_full.txt,dia34_utt18,Rachel,anger,43,0,0,37,137,Speaker Not Found
+res_dia34_utt1_20260806_022118_full.txt,dia34_utt1,Rachel,disgust,84,81,81,3,108,Processed
+res_dia34_utt2_20260806_023135_full.txt,dia34_utt2,Monica,joy,163,48,48,0,219,Processed
+res_dia34_utt3_20260806_023247_full.txt,dia34_utt3,Rachel,surprise,128,131,131,20,357,Processed
+res_dia34_utt4_20260806_023329_full.txt,dia34_utt4,Monica,anger,119,116,116,3,136,Processed
+res_dia34_utt5_20260806_023403_full.txt,dia34_utt5,Rachel,surprise,82,72,72,1,144,Processed
+res_dia34_utt6_20260806_023451_full.txt,dia34_utt6,Monica,disgust,56,56,56,0,197,Processed
+res_dia34_utt7_20260806_023534_full.txt,dia34_utt7,Monica,anger,65,65,65,0,240,Processed
+res_dia34_utt8_20260806_023625_full.txt,dia34_utt8,Monica,neutral,50,48,48,0,241,Processed
+res_dia34_utt9_20260806_023720_full.txt,dia34_utt9,Monica,neutral,59,59,59,0,249,Processed
+res_dia35_utt0_20260806_023854_full.txt,dia35_utt0,All,neutral,49,0,0,184,142,Speaker Not Trained
+res_dia35_utt1_20260806_023908_full.txt,dia35_utt1,Ross,joy,3,0,0,12,9,Speaker Not Found
+res_dia35_utt2_20260806_024059_full.txt,dia35_utt2,Carol,neutral,67,0,0,164,190,Speaker Not Trained
+res_dia35_utt3_20260806_024213_full.txt,dia35_utt3,Ross,neutral,27,27,27,36,88,Processed
+res_dia35_utt4_20260806_024406_full.txt,dia35_utt4,Dr. Franzblau,neutral,99,0,0,127,175,Speaker Not Trained
+res_dia36_utt0_20260806_024424_full.txt,dia36_utt0,Rachel,neutral,26,0,0,5,15,Speaker Not Found
+res_dia36_utt1_20260806_024506_full.txt,dia36_utt1,Monica,anger,169,169,169,11,33,Processed
+res_dia37_utt0_20260806_024528_full.txt,dia37_utt0,Janice,anger,73,0,0,0,0,Speaker Not Trained
+res_dia37_utt1_20260806_024603_full.txt,dia37_utt1,Joey,neutral,108,108,108,5,81,Processed
+res_dia37_utt2_20260806_024811_full.txt,dia37_utt2,Janice,anger,126,0,0,227,25,Speaker Not Trained
+res_dia37_utt3_20260806_024842_full.txt,dia37_utt3,Joey,fear,102,102,102,13,0,Processed
+res_dia37_utt4_20260806_024923_full.txt,dia37_utt4,Janice,anger,141,0,0,29,0,Speaker Not Trained
+res_dia37_utt5_20260806_025019_full.txt,dia37_utt5,Janice,neutral,134,0,0,69,0,Speaker Not Trained
+res_dia37_utt6_20260806_025046_full.txt,dia37_utt6,Joey,anger,33,29,29,37,1,Processed
+res_dia37_utt7_20260806_025112_full.txt,dia37_utt7,Janice,anger,34,0,0,34,0,Speaker Not Trained
+res_dia38_utt0_20260806_025221_full.txt,dia38_utt0,Student,joy,49,0,0,110,68,Speaker Not Trained
+res_dia38_utt1_20260806_025254_full.txt,dia38_utt1,Joey,joy,83,83,83,0,83,Processed
+res_dia38_utt2_20260806_025349_full.txt,dia38_utt2,Student,neutral,61,0,0,83,27,Speaker Not Trained
+res_dia38_utt3_20260806_025410_full.txt,dia38_utt3,Joey,joy,47,47,47,0,47,Processed
+res_dia38_utt4_20260806_032514_full.txt,dia38_utt4,Student,joy,7215,0,0,1480,2914,Speaker Not Trained
+res_dia39_utt0_20260806_032740_full.txt,dia39_utt0,Ross,neutral,254,217,217,312,82,Processed
+res_dia39_utt10_20260806_032910_full.txt,dia39_utt10,Monica,neutral,149,149,149,0,144,Processed
+res_dia39_utt11_20260806_032948_full.txt,dia39_utt11,Ross,neutral,120,120,120,0,120,Processed
+res_dia39_utt1_20260806_032818_full.txt,dia39_utt1,Mr. Geller,neutral,48,0,0,52,0,Speaker Not Trained
+res_dia39_utt2_20260806_033015_full.txt,dia39_utt2,Ross,neutral,95,95,95,0,0,Processed
+res_dia39_utt3_20260806_033104_full.txt,dia39_utt3,Mr. Geller,neutral,69,0,0,69,69,Speaker Not Trained
+res_dia39_utt4_20260806_033128_full.txt,dia39_utt4,Ross,neutral,88,88,88,0,0,Processed
+res_dia39_utt5_20260806_033218_full.txt,dia39_utt5,Mrs. Geller,neutral,91,0,0,68,85,Speaker Not Trained
+res_dia39_utt6_20260806_033309_full.txt,dia39_utt6,Mrs. Bing,joy,103,0,0,103,0,Speaker Not Trained
+res_dia39_utt7_20260806_033400_full.txt,dia39_utt7,Mr. Bing,neutral,81,0,0,81,68,Speaker Not Trained
+res_dia39_utt8_20260806_033442_full.txt,dia39_utt8,Mrs. Bing,neutral,52,0,0,71,0,Speaker Not Trained
+res_dia39_utt9_20260806_033505_full.txt,dia39_utt9,Ross,surprise,75,75,75,0,28,Processed
+res_dia3_utt0_20260806_033540_full.txt,dia3_utt0,Steve,neutral,48,0,0,48,48,Speaker Not Trained
+res_dia3_utt1_20260806_033609_full.txt,dia3_utt1,Ross,fear,112,112,112,2,13,Processed
+res_dia3_utt2_20260806_033715_full.txt,dia3_utt2,Steve,neutral,64,0,0,73,118,Speaker Not Trained
+res_dia3_utt3_20260806_033742_full.txt,dia3_utt3,Ross,neutral,92,92,92,2,65,Processed
+res_dia3_utt4_20260806_033916_full.txt,dia3_utt4,Steve,anger,136,0,0,68,240,Speaker Not Trained
+res_dia3_utt5_20260806_033934_full.txt,dia3_utt5,Ross,disgust,48,48,48,14,0,Processed
+res_dia3_utt6_20260806_033952_full.txt,dia3_utt6,Phoebe,neutral,61,61,61,0,0,Processed
+res_dia40_utt0_20260806_034021_full.txt,dia40_utt0,Monica,joy,36,36,36,16,82,Processed
+res_dia40_utt1_20260806_034306_full.txt,dia40_utt1,Phoebe,neutral,174,170,170,333,322,Processed
+res_dia41_utt0_20260806_034338_full.txt,dia41_utt0,Monica,neutral,83,83,83,42,36,Processed
+res_dia41_utt10_20260806_034437_full.txt,dia41_utt10,Phoebe,sadness,23,0,0,16,5,Speaker Not Found
+res_dia41_utt11_20260806_034459_full.txt,dia41_utt11,Phoebe,sadness,70,70,70,0,1,Processed
+res_dia41_utt12_20260806_034525_full.txt,dia41_utt12,Phoebe,neutral,57,57,57,16,33,Processed
+res_dia41_utt1_20260806_034419_full.txt,dia41_utt1,Chandler,anger,114,114,114,0,111,Processed
+res_dia41_utt2_20260806_034544_full.txt,dia41_utt2,Rachel,anger,48,44,44,4,0,Processed
+res_dia41_utt3_20260806_034612_full.txt,dia41_utt3,Phoebe,surprise,53,53,53,0,53,Processed
+res_dia41_utt4_20260806_034634_full.txt,dia41_utt4,Rachel,anger,27,27,27,1,26,Processed
+res_dia41_utt5_20260806_034700_full.txt,dia41_utt5,Monica,surprise,60,26,26,0,59,Processed
+res_dia41_utt6_20260806_034717_full.txt,dia41_utt6,Rachel,disgust,30,30,30,0,30,Processed
+res_dia41_utt7_20260806_034741_full.txt,dia41_utt7,Chandler,neutral,55,55,55,15,17,Processed
+res_dia41_utt8_20260806_034822_full.txt,dia41_utt8,Phoebe,surprise,48,0,0,63,10,Speaker Not Found
+res_dia41_utt9_20260806_034901_full.txt,dia41_utt9,Phoebe,surprise,48,0,0,63,10,Speaker Not Found
+res_dia42_utt0_20260806_034921_full.txt,dia42_utt0,Ross,joy,53,53,53,4,5,Processed
+res_dia42_utt1_20260806_034936_full.txt,dia42_utt1,Ross,sadness,36,36,36,0,0,Processed
+res_dia42_utt2_20260806_035004_full.txt,dia42_utt2,Ross,neutral,112,109,109,2,14,Processed
+res_dia42_utt3_20260806_035107_full.txt,dia42_utt3,Phoebe,surprise,143,111,111,2,214,Processed
+res_dia42_utt4_20260806_035132_full.txt,dia42_utt4,Ross,neutral,57,57,57,18,53,Processed
+res_dia42_utt5_20260806_035203_full.txt,dia42_utt5,Rachel,surprise,87,87,87,1,77,Processed
+res_dia42_utt6_20260806_035233_full.txt,dia42_utt6,Ross,joy,75,24,24,10,67,Processed
+res_dia42_utt7_20260806_035316_full.txt,dia42_utt7,Monica,surprise,54,54,54,14,171,Processed
+res_dia42_utt8_20260806_035341_full.txt,dia42_utt8,Ross,neutral,35,32,32,3,54,Processed
+res_dia43_utt0_20260806_035401_full.txt,dia43_utt0,Monica,neutral,49,50,50,8,3,Processed
+res_dia43_utt1_20260806_035420_full.txt,dia43_utt1,Joey,neutral,48,48,48,0,0,Processed
+res_dia43_utt2_20260806_035441_full.txt,dia43_utt2,Monica,neutral,35,35,35,20,0,Processed
+res_dia43_utt3_20260806_035505_full.txt,dia43_utt3,Ross,neutral,84,84,84,1,2,Processed
+res_dia43_utt4_20260806_035550_full.txt,dia43_utt4,Monica,neutral,124,124,124,13,115,Processed
+res_dia43_utt5_20260806_035608_full.txt,dia43_utt5,Joey,neutral,46,0,0,0,12,Speaker Not Found
+res_dia43_utt6_20260806_035636_full.txt,dia43_utt6,Phoebe,neutral,26,0,0,42,0,Speaker Not Found
+res_dia44_utt0_20260806_035710_full.txt,dia44_utt0,Chandler,neutral,77,77,77,0,80,Processed
+res_dia44_utt1_20260806_035737_full.txt,dia44_utt1,Rachel,neutral,59,0,0,0,60,Speaker Not Found
+res_dia44_utt2_20260806_035806_full.txt,dia44_utt2,Chandler,joy,79,79,79,1,43,Processed
+res_dia44_utt3_20260806_035822_full.txt,dia44_utt3,Rachel,neutral,30,30,30,0,30,Processed
+res_dia45_utt0_20260806_035909_full.txt,dia45_utt0,Monica,anger,192,189,189,4,0,Processed
+res_dia45_utt1_20260806_035946_full.txt,dia45_utt1,Phoebe,neutral,97,97,97,1,96,Processed
+res_dia45_utt2_20260806_040012_full.txt,dia45_utt2,Monica,neutral,53,53,53,0,20,Processed
+res_dia45_utt3_20260806_040033_full.txt,dia45_utt3,Phoebe,surprise,26,26,26,0,7,Processed
+res_dia45_utt4_20260806_040107_full.txt,dia45_utt4,Phoebe,joy,60,49,49,25,0,Processed
+res_dia45_utt5_20260806_040140_full.txt,dia45_utt5,Phoebe,joy,60,49,49,25,0,Processed
+res_dia45_utt6_20260806_040220_full.txt,dia45_utt6,Phoebe,anger,107,86,86,13,15,Processed
+res_dia45_utt7_20260806_040243_full.txt,dia45_utt7,Monica,neutral,47,47,47,0,2,Processed
+res_dia45_utt8_20260806_040420_full.txt,dia45_utt8,Monica,neutral,267,235,235,50,131,Processed
+res_dia46_utt0_20260806_040513_full.txt,dia46_utt0,Leslie,joy,86,0,0,49,45,Speaker Not Trained
+res_dia46_utt1_20260806_040536_full.txt,dia46_utt1,Leslie,joy,53,0,0,14,23,Speaker Not Trained
+res_dia46_utt2_20260806_040614_full.txt,dia46_utt2,Leslie,joy,119,0,0,21,7,Speaker Not Trained
+res_dia46_utt3_20260806_040638_full.txt,dia46_utt3,Leslie,joy,51,0,0,16,0,Speaker Not Trained
+res_dia46_utt4_20260806_040703_full.txt,dia46_utt4,Leslie,joy,68,0,0,15,0,Speaker Not Trained
+res_dia46_utt5_20260806_040722_full.txt,dia46_utt5,Leslie,joy,63,0,0,0,0,Speaker Not Trained
+res_dia46_utt6_20260806_040755_full.txt,dia46_utt6,Leslie,neutral,66,0,0,31,0,Speaker Not Trained
+res_dia46_utt7_20260806_040835_full.txt,dia46_utt7,Phoebe,joy,86,78,78,33,45,Processed
+res_dia46_utt8_20260806_041059_full.txt,dia46_utt8,Phoebe and Leslie,joy,393,0,0,266,122,Speaker Not Trained
+res_dia47_utt0_20260806_041125_full.txt,dia47_utt0,Joey,sadness,84,84,84,0,0,Processed
+res_dia47_utt10_20260806_041157_full.txt,dia47_utt10,Joey,neutral,16,16,16,5,0,Processed
+res_dia47_utt11_20260806_041225_full.txt,dia47_utt11,Monica,neutral,75,75,75,25,6,Processed
+res_dia47_utt12_20260806_041244_full.txt,dia47_utt12,Chandler,neutral,55,52,52,3,0,Processed
+res_dia47_utt13_20260806_041322_full.txt,dia47_utt13,Monica,neutral,169,169,169,0,0,Processed
+res_dia47_utt1_20260806_041144_full.txt,dia47_utt1,Joey,sadness,42,42,42,0,42,Processed
+res_dia47_utt2_20260806_041345_full.txt,dia47_utt2,Joey,sadness,52,52,52,0,52,Processed
+res_dia47_utt3_20260806_041411_full.txt,dia47_utt3,Joey,neutral,78,78,78,0,78,Processed
+res_dia47_utt4_20260806_041433_full.txt,dia47_utt4,Joey,neutral,47,47,47,0,47,Processed
+res_dia47_utt5_20260806_041459_full.txt,dia47_utt5,Chandler,neutral,81,81,81,23,0,Processed
+res_dia47_utt6_20260806_041541_full.txt,dia47_utt6,Joey,sadness,120,120,120,0,120,Processed
+res_dia47_utt7_20260806_041602_full.txt,dia47_utt7,Chandler,neutral,37,37,37,0,41,Processed
+res_dia47_utt8_20260806_041618_full.txt,dia47_utt8,Monica,neutral,35,35,35,9,0,Processed
+res_dia47_utt9_20260806_041635_full.txt,dia47_utt9,Chandler,neutral,35,13,13,9,0,Processed
+res_dia48_utt0_20260806_041736_full.txt,dia48_utt0,Monica,neutral,133,97,97,91,84,Processed
+res_dia48_utt1_20260806_041802_full.txt,dia48_utt1,Phoebe,neutral,63,43,43,2,61,Processed
+res_dia48_utt2_20260806_041821_full.txt,dia48_utt2,Monica,neutral,55,55,55,2,0,Processed
+res_dia48_utt3_20260806_041836_full.txt,dia48_utt3,Chandler,joy,30,21,21,11,2,Processed
+res_dia48_utt4_20260806_041848_full.txt,dia48_utt4,Joey,joy,7,5,5,4,0,Processed
+res_dia48_utt5_20260806_041909_full.txt,dia48_utt5,Ross,joy,52,13,13,21,0,Processed
+res_dia48_utt6_20260806_041921_full.txt,dia48_utt6,Joey,joy,3,0,0,8,0,Speaker Not Found
+res_dia49_utt0_20260806_041942_full.txt,dia49_utt0,Monica,joy,56,55,55,1,56,Processed
+res_dia49_utt10_20260806_042028_full.txt,dia49_utt10,Chandler,neutral,72,72,72,0,72,Processed
+res_dia49_utt11_20260806_042104_full.txt,dia49_utt11,Chandler,joy,95,95,95,0,95,Processed
+res_dia49_utt12_20260806_042154_full.txt,dia49_utt12,Monica,surprise,70,70,70,31,117,Processed
+res_dia49_utt13_20260806_042228_full.txt,dia49_utt13,Chandler,neutral,95,95,95,0,95,Processed
+res_dia49_utt14_20260806_042317_full.txt,dia49_utt14,Monica,joy,73,73,73,24,111,Processed
+res_dia49_utt15_20260806_042352_full.txt,dia49_utt15,Chandler,neutral,108,108,108,6,73,Processed
+res_dia49_utt16_20260806_042424_full.txt,dia49_utt16,Monica,neutral,61,15,15,11,96,Processed
+res_dia49_utt1_20260806_041959_full.txt,dia49_utt1,Chandler,joy,34,0,0,0,34,Speaker Not Found
+res_dia49_utt2_20260806_042455_full.txt,dia49_utt2,Joey,neutral,98,50,50,22,4,Processed
+res_dia49_utt3_20260806_042512_full.txt,dia49_utt3,Chandler,neutral,50,50,50,0,0,Processed
+res_dia49_utt4_20260806_042527_full.txt,dia49_utt4,Joey,neutral,33,33,33,0,0,Processed
+res_dia49_utt5_20260806_042549_full.txt,dia49_utt5,Monica,neutral,62,50,50,12,0,Processed
+res_dia49_utt6_20260806_042625_full.txt,dia49_utt6,Joey,neutral,117,97,97,23,6,Processed
+res_dia49_utt7_20260806_042653_full.txt,dia49_utt7,Monica,neutral,67,63,63,20,14,Processed
+res_dia49_utt8_20260806_042728_full.txt,dia49_utt8,Chandler,neutral,103,103,103,0,69,Processed
+res_dia49_utt9_20260806_042802_full.txt,dia49_utt9,Chandler,joy,103,103,103,0,69,Processed
+res_dia4_utt0_20260806_042820_full.txt,dia4_utt0,Phoebe,surprise,24,24,24,18,0,Processed
+res_dia4_utt1_20260806_042838_full.txt,dia4_utt1,Monica,neutral,48,7,7,0,0,Processed
+res_dia4_utt2_20260806_042855_full.txt,dia4_utt2,Phoebe,surprise,36,36,36,0,0,Processed
+res_dia4_utt3_20260806_042913_full.txt,dia4_utt3,Monica,surprise,31,31,31,2,23,Processed
+res_dia4_utt4_20260806_043000_full.txt,dia4_utt4,Phoebe,neutral,90,69,69,86,1,Processed
+res_dia4_utt5_20260806_043051_full.txt,dia4_utt5,Joey,fear,135,102,102,31,10,Processed
+res_dia4_utt6_20260806_043128_full.txt,dia4_utt6,Monica,disgust,56,54,54,26,0,Processed
+res_dia4_utt7_20260806_043156_full.txt,dia4_utt7,Joey,anger,66,66,66,0,0,Processed
+res_dia4_utt8_20260806_043224_full.txt,dia4_utt8,Joey,neutral,60,56,56,4,0,Processed
+res_dia50_utt0_20260806_043317_full.txt,dia50_utt0,Ross,neutral,208,208,208,0,0,Processed
+res_dia50_utt1_20260806_043351_full.txt,dia50_utt1,Chandler,neutral,98,98,98,2,0,Processed
+res_dia50_utt2_20260806_043423_full.txt,dia50_utt2,Female Student,fear,56,0,0,2,47,Speaker Not Trained
+res_dia50_utt3_20260806_043450_full.txt,dia50_utt3,Chandler,neutral,63,63,63,0,0,Processed
+res_dia51_utt0_20260806_043519_full.txt,dia51_utt0,Joey,joy,33,33,33,22,11,Processed
+res_dia51_utt1_20260806_043539_full.txt,dia51_utt1,Rachel,joy,5,0,0,6,0,Speaker Not Found
+res_dia51_utt2_20260806_043636_full.txt,dia51_utt2,Joey,neutral,114,95,95,30,75,Processed
+res_dia52_utt0_20260806_043717_full.txt,dia52_utt0,Ross,neutral,40,39,39,41,0,Processed
+res_dia52_utt10_20260806_043832_full.txt,dia52_utt10,Ross,anger,89,89,89,1,210,Processed
+res_dia52_utt11_20260806_043855_full.txt,dia52_utt11,Ross,anger,45,45,45,4,97,Processed
+res_dia52_utt1_20260806_043801_full.txt,dia52_utt1,Joey,disgust,108,108,108,4,165,Processed
+res_dia52_utt2_20260806_043940_full.txt,dia52_utt2,Ross,neutral,76,75,75,3,192,Processed
+res_dia52_utt3_20260806_044010_full.txt,dia52_utt3,Joey,surprise,75,75,75,0,151,Processed
+res_dia52_utt4_20260806_044032_full.txt,dia52_utt4,Ross,neutral,46,46,46,0,86,Processed
+res_dia52_utt5_20260806_044111_full.txt,dia52_utt5,Joey,neutral,83,83,83,6,124,Processed
+res_dia52_utt6_20260806_044142_full.txt,dia52_utt6,Ross,neutral,55,11,11,5,85,Processed
+res_dia52_utt7_20260806_044219_full.txt,dia52_utt7,Joey,surprise,48,48,48,48,77,Processed
+res_dia52_utt8_20260806_044256_full.txt,dia52_utt8,Ross,surprise,73,73,73,17,140,Processed
+res_dia52_utt9_20260806_044326_full.txt,dia52_utt9,Joey,neutral,57,57,57,0,145,Processed
+res_dia53_utt0_20260806_044433_full.txt,dia53_utt0,Monica,surprise,241,205,205,17,164,Processed
+res_dia53_utt10_20260806_044534_full.txt,dia53_utt10,Monica,neutral,93,92,92,1,92,Processed
+res_dia53_utt11_20260806_044605_full.txt,dia53_utt11,Rachel,joy,71,71,71,0,70,Processed
+res_dia53_utt12_20260806_044626_full.txt,dia53_utt12,Monica,joy,38,38,38,0,37,Processed
+res_dia53_utt1_20260806_044459_full.txt,dia53_utt1,Rachel,neutral,49,0,0,37,9,Speaker Not Found
+res_dia53_utt2_20260806_044709_full.txt,dia53_utt2,Monica,joy,136,133,133,0,136,Processed
+res_dia53_utt3_20260806_044728_full.txt,dia53_utt3,Rachel,joy,53,53,53,0,9,Processed
+res_dia53_utt4_20260806_044754_full.txt,dia53_utt4,Monica,joy,72,72,72,0,48,Processed
+res_dia53_utt5_20260806_044824_full.txt,dia53_utt5,Rachel,neutral,129,129,129,0,0,Processed
+res_dia53_utt6_20260806_044844_full.txt,dia53_utt6,Monica,sadness,56,56,56,0,32,Processed
+res_dia53_utt7_20260806_044919_full.txt,dia53_utt7,Rachel,sadness,103,103,103,23,0,Processed
+res_dia53_utt8_20260806_044943_full.txt,dia53_utt8,Monica,surprise,72,58,58,20,6,Processed
+res_dia53_utt9_20260806_045025_full.txt,dia53_utt9,Monica,joy,169,155,155,21,6,Processed
+res_dia54_utt0_20260806_045103_full.txt,dia54_utt0,Judge,neutral,60,0,0,42,90,Speaker Not Trained
+res_dia54_utt10_20260806_045159_full.txt,dia54_utt10,Ross,sadness,87,87,87,2,56,Processed
+res_dia54_utt11_20260806_045230_full.txt,dia54_utt11,Rachel,sadness,56,56,56,0,56,Processed
+res_dia54_utt1_20260806_045124_full.txt,dia54_utt1,Rachel,neutral,75,75,75,0,0,Processed
+res_dia54_utt2_20260806_045312_full.txt,dia54_utt2,Judge,neutral,186,0,0,3,2,Speaker Not Trained
+res_dia54_utt3_20260806_045333_full.txt,dia54_utt3,Ross,anger,76,76,76,0,0,Processed
+res_dia54_utt4_20260806_045359_full.txt,dia54_utt4,Judge,neutral,88,0,0,0,0,Speaker Not Trained
+res_dia54_utt5_20260806_045420_full.txt,dia54_utt5,Ross,surprise,78,78,78,0,0,Processed
+res_dia54_utt6_20260806_045430_full.txt,dia54_utt6,Rachel,neutral,3,3,3,0,0,Processed
+res_dia54_utt7_20260806_045451_full.txt,dia54_utt7,Ross,anger,59,58,58,1,1,Processed
+res_dia54_utt8_20260806_045513_full.txt,dia54_utt8,Rachel,neutral,36,36,36,1,35,Processed
+res_dia54_utt9_20260806_045638_full.txt,dia54_utt9,Judge,neutral,133,0,0,133,0,Speaker Not Trained
+res_dia55_utt0_20260806_045704_full.txt,dia55_utt0,Rachel,neutral,86,74,74,10,3,Processed
+res_dia55_utt1_20260806_045729_full.txt,dia55_utt1,Rachel,neutral,57,57,57,6,27,Processed
+res_dia55_utt2_20260806_045751_full.txt,dia55_utt2,Phoebe,joy,70,70,70,0,0,Processed
+res_dia56_utt0_20260806_045816_full.txt,dia56_utt0,Rachel,sadness,96,96,96,0,1,Processed
+res_dia56_utt10_20260806_045924_full.txt,dia56_utt10,Rachel,surprise,103,93,93,0,0,Processed
+res_dia56_utt11_20260806_045936_full.txt,dia56_utt11,Ross,joy,11,11,11,0,0,Processed
+res_dia56_utt1_20260806_045857_full.txt,dia56_utt1,Ross,neutral,143,143,143,22,27,Processed
+res_dia56_utt2_20260806_050022_full.txt,dia56_utt2,Rachel,joy,200,200,200,0,0,Processed
+res_dia56_utt3_20260806_050054_full.txt,dia56_utt3,Ross,neutral,78,51,51,0,13,Processed
+res_dia56_utt4_20260806_050124_full.txt,dia56_utt4,Rachel,anger,57,57,57,0,15,Processed
+res_dia56_utt5_20260806_050216_full.txt,dia56_utt5,Ross,joy,128,110,110,26,0,Processed
+res_dia56_utt6_20260806_050236_full.txt,dia56_utt6,Rachel,neutral,25,25,25,0,0,Processed
+res_dia56_utt7_20260806_050300_full.txt,dia56_utt7,Ross,joy,43,42,42,1,0,Processed
+res_dia56_utt8_20260806_050413_full.txt,dia56_utt8,Rachel,joy,307,291,291,0,0,Processed
+res_dia56_utt9_20260806_050446_full.txt,dia56_utt9,Ross,neutral,79,79,79,0,0,Processed
+res_dia57_utt0_20260806_050509_full.txt,dia57_utt0,Monica,neutral,29,29,29,0,0,Processed
+res_dia57_utt1_20260806_050601_full.txt,dia57_utt1,Chandler,joy,165,165,165,0,31,Processed
+res_dia57_utt2_20260806_050648_full.txt,dia57_utt2,Monica,joy,64,64,64,0,64,Processed
+res_dia57_utt3_20260806_050720_full.txt,dia57_utt3,Chandler,neutral,36,36,36,1,35,Processed
+res_dia57_utt4_20260806_050901_full.txt,dia57_utt4,Monica,joy,231,0,0,1,227,Speaker Not Found
+res_dia57_utt5_20260806_050935_full.txt,dia57_utt5,Monica,disgust,68,42,42,12,53,Processed
+res_dia58_utt0_20260806_050950_full.txt,dia58_utt0,Chandler,joy,38,38,38,0,0,Processed
+res_dia58_utt10_20260806_051019_full.txt,dia58_utt10,Chandler,sadness,27,27,27,0,27,Processed
+res_dia58_utt11_20260806_051044_full.txt,dia58_utt11,Monica,neutral,69,69,69,0,25,Processed
+res_dia58_utt12_20260806_051103_full.txt,dia58_utt12,Chandler,joy,49,0,0,0,30,Speaker Not Found
+res_dia58_utt13_20260806_051142_full.txt,dia58_utt13,Monica,joy,127,71,71,21,39,Processed
+res_dia58_utt14_20260806_051158_full.txt,dia58_utt14,Chandler,neutral,34,34,34,0,20,Processed
+res_dia58_utt15_20260806_051304_full.txt,dia58_utt15,Monica,neutral,276,113,113,45,0,Processed
+res_dia58_utt16_20260806_051328_full.txt,dia58_utt16,Chandler,sadness,86,0,0,1,0,Speaker Not Found
+res_dia58_utt1_20260806_051004_full.txt,dia58_utt1,Monica,joy,31,0,0,0,0,Speaker Not Found
+res_dia58_utt2_20260806_051409_full.txt,dia58_utt2,Chandler,joy,180,180,180,4,0,Processed
+res_dia58_utt3_20260806_051431_full.txt,dia58_utt3,Monica,joy,76,76,76,0,0,Processed
+res_dia58_utt4_20260806_051449_full.txt,dia58_utt4,Chandler,neutral,45,45,45,0,10,Processed
+res_dia58_utt5_20260806_051506_full.txt,dia58_utt5,Monica,neutral,56,56,56,0,0,Processed
+res_dia58_utt6_20260806_051527_full.txt,dia58_utt6,Chandler,neutral,53,53,53,0,45,Processed
+res_dia58_utt7_20260806_051547_full.txt,dia58_utt7,Chandler,surprise,40,40,40,0,37,Processed
+res_dia58_utt8_20260806_051603_full.txt,dia58_utt8,Chandler,surprise,24,24,24,0,24,Processed
+res_dia58_utt9_20260806_051632_full.txt,dia58_utt9,Chandler,sadness,82,82,82,0,82,Processed
+res_dia59_utt0_20260806_051718_full.txt,dia59_utt0,Ross,neutral,75,0,0,25,66,Speaker Not Found
+res_dia59_utt1_20260806_051747_full.txt,dia59_utt1,Rachel,neutral,81,67,67,25,1,Processed
+res_dia59_utt2_20260806_051833_full.txt,dia59_utt2,Rachel,anger,100,0,0,86,19,Speaker Not Found
+res_dia5_utt0_20260806_052019_full.txt,dia5_utt0,Chandler,anger,286,258,258,101,235,Processed
+res_dia5_utt1_20260806_052047_full.txt,dia5_utt1,Chandler,neutral,44,15,15,30,43,Processed
+res_dia5_utt2_20260806_052108_full.txt,dia5_utt2,Marjorie,neutral,26,0,0,26,9,Speaker Not Trained
+res_dia5_utt3_20260806_052129_full.txt,dia5_utt3,Chandler,neutral,47,44,44,10,30,Processed
+res_dia5_utt4_20260806_052150_full.txt,dia5_utt4,Marjorie,neutral,37,0,0,5,40,Speaker Not Trained
+res_dia5_utt5_20260806_052209_full.txt,dia5_utt5,Chandler,neutral,34,32,32,5,27,Processed
+res_dia5_utt6_20260806_052225_full.txt,dia5_utt6,Marjorie,neutral,28,0,0,3,0,Speaker Not Trained
+res_dia5_utt7_20260806_052255_full.txt,dia5_utt7,Chandler,neutral,84,49,49,5,3,Processed
+res_dia5_utt8_20260806_052333_full.txt,dia5_utt8,Joey,neutral,54,30,30,30,105,Processed
+res_dia60_utt0_20260806_052428_full.txt,dia60_utt0,Chandler,fear,116,117,117,79,131,Processed
+res_dia60_utt1_20260806_052504_full.txt,dia60_utt1,Janice,neutral,133,0,0,18,29,Speaker Not Trained
+res_dia60_utt2_20260806_052700_full.txt,dia60_utt2,Chandler,joy,127,133,133,175,156,Processed
+res_dia60_utt3_20260806_052749_full.txt,dia60_utt3,Chandler,surprise,61,61,61,90,30,Processed
+res_dia60_utt4_20260806_052925_full.txt,dia60_utt4,Chandler,sadness,110,111,111,119,185,Processed
+res_dia60_utt5_20260806_053020_full.txt,dia60_utt5,Janice,anger,120,0,0,32,115,Speaker Not Trained
+res_dia60_utt6_20260806_053142_full.txt,dia60_utt6,Chandler,anger,55,57,57,135,25,Processed
+res_dia61_utt0_20260806_053205_full.txt,dia61_utt0,Chip,surprise,85,0,0,0,5,Speaker Not Trained
+res_dia61_utt1_20260806_053428_full.txt,dia61_utt1,Monica,disgust,198,199,199,5,465,Processed
+res_dia61_utt2_20260806_053510_full.txt,dia61_utt2,Monica,surprise,57,57,57,0,145,Processed
+res_dia62_utt0_20260806_053535_full.txt,dia62_utt0,Kathy,neutral,33,0,0,36,13,Speaker Not Trained
+res_dia62_utt1_20260806_053624_full.txt,dia62_utt1,Chandler,anger,144,158,158,33,0,Processed
+res_dia63_utt0_20260806_053719_full.txt,dia63_utt0,Phoebe,neutral,86,75,75,50,25,Processed
+res_dia63_utt1_20260806_053808_full.txt,dia63_utt1,Ross,neutral,48,0,0,52,0,Speaker Not Found
+res_dia64_utt0_20260806_053842_full.txt,dia64_utt0,Chandler,anger,80,80,80,0,134,Processed
+res_dia64_utt10_20260806_054024_full.txt,dia64_utt10,Joey,neutral,30,30,30,53,50,Processed
+res_dia64_utt11_20260806_054129_full.txt,dia64_utt11,Joey,neutral,120,120,120,60,182,Processed
+res_dia64_utt12_20260806_054409_full.txt,dia64_utt12,Joey,sadness,143,143,143,216,443,Processed
+res_dia64_utt13_20260806_054536_full.txt,dia64_utt13,Gunther,neutral,113,0,0,116,136,Speaker Not Trained
+res_dia64_utt14_20260806_054609_full.txt,dia64_utt14,Joey,surprise,31,28,28,31,54,Processed
+res_dia64_utt15_20260806_054707_full.txt,dia64_utt15,Gunther,neutral,50,0,0,51,99,Speaker Not Trained
+res_dia64_utt16_20260806_054837_full.txt,dia64_utt16,Joey,neutral,82,81,81,138,164,Processed
+res_dia64_utt1_20260806_053947_full.txt,dia64_utt1,Ross,neutral,194,194,194,25,164,Processed
+res_dia64_utt2_20260806_054923_full.txt,dia64_utt2,Chandler,anger,53,37,37,29,180,Processed
+res_dia64_utt3_20260806_054943_full.txt,dia64_utt3,Ross,anger,35,35,35,0,35,Processed
+res_dia64_utt4_20260806_055004_full.txt,dia64_utt4,Chandler,anger,43,43,43,0,34,Processed
+res_dia64_utt5_20260806_055019_full.txt,dia64_utt5,Ross,neutral,28,26,26,0,4,Processed
+res_dia64_utt6_20260806_055104_full.txt,dia64_utt6,Chandler,neutral,32,22,22,58,136,Processed
+res_dia64_utt7_20260806_055140_full.txt,dia64_utt7,Gunther,neutral,46,0,0,54,102,Speaker Not Trained
+res_dia64_utt8_20260806_055439_full.txt,dia64_utt8,Joey,neutral,246,246,246,337,289,Processed
+res_dia64_utt9_20260806_055529_full.txt,dia64_utt9,Gunther,neutral,50,0,0,51,49,Speaker Not Trained
+res_dia65_utt0_20260806_055548_full.txt,dia65_utt0,Chandler,neutral,47,47,47,0,0,Processed
+res_dia65_utt10_20260806_055631_full.txt,dia65_utt10,Joey,surprise,43,43,43,0,0,Processed
+res_dia65_utt1_20260806_055612_full.txt,dia65_utt1,Phoebe,neutral,53,53,53,2,44,Processed
+res_dia65_utt2_20260806_055703_full.txt,dia65_utt2,Chandler,neutral,136,136,136,0,0,Processed
+res_dia65_utt3_20260806_055726_full.txt,dia65_utt3,Joey,disgust,74,74,74,0,0,Processed
+res_dia65_utt4_20260806_055746_full.txt,dia65_utt4,Chandler,surprise,57,57,57,0,0,Processed
+res_dia65_utt5_20260806_055757_full.txt,dia65_utt5,Phoebe,neutral,6,0,0,0,0,Speaker Not Found
+res_dia65_utt6_20260806_055839_full.txt,dia65_utt6,Chandler,anger,77,84,84,60,6,Processed
+res_dia65_utt7_20260806_055858_full.txt,dia65_utt7,Joey,neutral,46,46,46,0,4,Processed
+res_dia65_utt8_20260806_055914_full.txt,dia65_utt8,Phoebe,neutral,27,0,0,0,4,Speaker Not Found
+res_dia65_utt9_20260806_055934_full.txt,dia65_utt9,Chandler,anger,66,66,66,0,0,Processed
+res_dia66_utt0_20260806_060003_full.txt,dia66_utt0,Flight Attendant,neutral,44,0,0,21,20,Speaker Not Trained
+res_dia66_utt1_20260806_060027_full.txt,dia66_utt1,Flight Attendant,joy,52,0,0,5,5,Speaker Not Trained
+res_dia66_utt2_20260806_060114_full.txt,dia66_utt2,Rachel,joy,118,113,113,6,42,Processed
+res_dia66_utt3_20260806_060203_full.txt,dia66_utt3,Flight Attendant,neutral,98,0,0,50,85,Speaker Not Trained
+res_dia66_utt4_20260806_060239_full.txt,dia66_utt4,Ross,joy,71,35,35,30,53,Processed
+res_dia67_utt0_20260806_060259_full.txt,dia67_utt0,Monica,neutral,35,0,0,3,35,Speaker Not Found
+res_dia67_utt1_20260806_060320_full.txt,dia67_utt1,Phoebe,neutral,57,57,57,4,5,Processed
+res_dia67_utt2_20260806_060349_full.txt,dia67_utt2,Larry,neutral,34,0,0,34,34,Speaker Not Trained
+res_dia67_utt3_20260806_060422_full.txt,dia67_utt3,Phoebe,joy,74,74,74,1,82,Processed
+res_dia68_utt0_20260806_060444_full.txt,dia68_utt0,Rachel,anger,35,0,0,37,15,Speaker Not Found
+res_dia68_utt10_20260806_060529_full.txt,dia68_utt10,Joey,neutral,42,42,42,2,19,Processed
+res_dia68_utt11_20260806_060553_full.txt,dia68_utt11,Rachel,anger,36,36,36,27,0,Processed
+res_dia68_utt12_20260806_060613_full.txt,dia68_utt12,Joey,joy,42,42,42,23,8,Processed
+res_dia68_utt13_20260806_060626_full.txt,dia68_utt13,Rachel,joy,13,0,0,1,3,Speaker Not Found
+res_dia68_utt14_20260806_060658_full.txt,dia68_utt14,Joey,neutral,52,17,17,36,59,Processed
+res_dia68_utt1_20260806_060512_full.txt,dia68_utt1,Joey,anger,57,0,0,57,0,Speaker Not Found
+res_dia68_utt2_20260806_060731_full.txt,dia68_utt2,Joey,neutral,89,89,89,0,69,Processed
+res_dia68_utt3_20260806_060807_full.txt,dia68_utt3,Rachel,sadness,64,0,0,64,0,Speaker Not Found
+res_dia68_utt4_20260806_060833_full.txt,dia68_utt4,Joey,neutral,89,89,89,0,89,Processed
+res_dia68_utt5_20260806_060903_full.txt,dia68_utt5,Rachel,anger,88,84,84,24,3,Processed
+res_dia68_utt6_20260806_060922_full.txt,dia68_utt6,Joey,neutral,43,43,43,2,23,Processed
+res_dia68_utt7_20260806_060941_full.txt,dia68_utt7,Rachel,joy,49,49,49,0,0,Processed
+res_dia68_utt8_20260806_060958_full.txt,dia68_utt8,Joey,neutral,40,40,40,0,20,Processed
+res_dia68_utt9_20260806_061022_full.txt,dia68_utt9,Rachel,joy,31,31,31,31,0,Processed
+res_dia69_utt0_20260806_061110_full.txt,dia69_utt0,Chandler,anger,115,93,93,25,105,Processed
+res_dia69_utt1_20260806_061148_full.txt,dia69_utt1,Chandler,anger,74,51,51,37,55,Processed
+res_dia69_utt2_20260806_061210_full.txt,dia69_utt2,Chandler,neutral,39,34,34,21,18,Processed
+res_dia69_utt3_20260806_061248_full.txt,dia69_utt3,Chandler,neutral,66,19,19,47,66,Processed
+res_dia69_utt4_20260806_061350_full.txt,dia69_utt4,Chandler,neutral,208,205,205,18,188,Processed
+res_dia69_utt5_20260806_061421_full.txt,dia69_utt5,Chandler,joy,63,63,63,28,28,Processed
+res_dia6_utt0_20260806_061450_full.txt,dia6_utt0,Joey,neutral,71,0,0,24,36,Speaker Not Found
+res_dia6_utt1_20260806_061510_full.txt,dia6_utt1,Monica,neutral,62,0,0,0,0,Speaker Not Found
+res_dia6_utt2_20260806_061531_full.txt,dia6_utt2,Phoebe,surprise,54,0,0,10,0,Speaker Not Found
+res_dia70_utt0_20260806_061626_full.txt,dia70_utt0,Joey,neutral,148,153,153,1,148,Processed
+res_dia70_utt10_20260806_061747_full.txt,dia70_utt10,Joey,disgust,77,77,77,39,63,Processed
+res_dia70_utt11_20260806_061822_full.txt,dia70_utt11,Joey,anger,73,0,0,44,20,Speaker Not Found
+res_dia70_utt12_20260806_061850_full.txt,dia70_utt12,Joey,anger,38,38,38,2,74,Processed
+res_dia70_utt13_20260806_061902_full.txt,dia70_utt13,Joey,anger,3,3,3,0,6,Processed
+res_dia70_utt14_20260806_062006_full.txt,dia70_utt14,Joey,anger,154,154,154,85,210,Processed
+res_dia70_utt15_20260806_062053_full.txt,dia70_utt15,Joey,sadness,133,0,0,7,147,Speaker Not Found
+res_dia70_utt16_20260806_062123_full.txt,dia70_utt16,Joey,sadness,80,80,80,19,80,Processed
+res_dia70_utt17_20260806_062143_full.txt,dia70_utt17,Ross and Chandler,joy,36,0,0,3,29,Speaker Not Trained
+res_dia70_utt18_20260806_062203_full.txt,dia70_utt18,Woman,neutral,42,0,0,0,51,Speaker Not Trained
+res_dia70_utt19_20260806_062230_full.txt,dia70_utt19,Ross,neutral,50,20,20,28,17,Processed
+res_dia70_utt1_20260806_061706_full.txt,dia70_utt1,Molly,neutral,69,0,0,29,69,Speaker Not Trained
+res_dia70_utt20_20260806_062417_full.txt,dia70_utt20,Molly,neutral,226,0,0,80,106,Speaker Not Trained
+res_dia70_utt21_20260806_062449_full.txt,dia70_utt21,Ross,neutral,124,124,124,1,20,Processed
+res_dia70_utt22_20260806_062547_full.txt,dia70_utt22,Joey,joy,206,206,206,21,185,Processed
+res_dia70_utt2_20260806_062258_full.txt,dia70_utt2,Joey,neutral,40,49,49,0,40,Processed
+res_dia70_utt3_20260806_062709_full.txt,dia70_utt3,Molly,neutral,141,0,0,36,139,Speaker Not Trained
+res_dia70_utt4_20260806_062806_full.txt,dia70_utt4,Joey,neutral,106,137,137,0,106,Processed
+res_dia70_utt5_20260806_062831_full.txt,dia70_utt5,Ross,neutral,91,0,0,0,0,Speaker Not Found
+res_dia70_utt6_20260806_062909_full.txt,dia70_utt6,Molly,neutral,54,0,0,44,60,Speaker Not Trained
+res_dia70_utt7_20260806_062928_full.txt,dia70_utt7,Ross,neutral,24,0,0,16,28,Speaker Not Found
+res_dia70_utt8_20260806_063000_full.txt,dia70_utt8,Joey,sadness,73,71,71,41,27,Processed
+res_dia70_utt9_20260806_063027_full.txt,dia70_utt9,Ross,disgust,100,100,100,1,0,Processed
+res_dia71_utt0_20260806_063127_full.txt,dia71_utt0,Joey,joy,78,32,32,94,19,Processed
+res_dia71_utt10_20260806_063248_full.txt,dia71_utt10,Joey,neutral,86,48,46,62,2,Processed
+res_dia71_utt11_20260806_063308_full.txt,dia71_utt11,Joey,neutral,71,71,71,0,0,Processed
+res_dia71_utt12_20260806_063414_full.txt,dia71_utt12,Joey,joy,63,0,0,126,0,Speaker Not Found
+res_dia71_utt13_20260806_063437_full.txt,dia71_utt13,Joey,fear,84,84,84,0,0,Processed
+res_dia71_utt1_20260806_063150_full.txt,dia71_utt1,The Director,neutral,68,0,0,0,60,Speaker Not Trained
+res_dia71_utt2_20260806_063457_full.txt,dia71_utt2,Joey,joy,56,56,56,0,48,Processed
+res_dia71_utt3_20260806_063637_full.txt,dia71_utt3,The Director,surprise,240,0,0,206,1,Speaker Not Trained
+res_dia71_utt4_20260806_063751_full.txt,dia71_utt4,The Casting Director,joy,98,0,0,96,26,Speaker Not Trained
+res_dia71_utt5_20260806_063906_full.txt,dia71_utt5,Joey,surprise,98,50,50,96,26,Processed
+res_dia71_utt6_20260806_064019_full.txt,dia71_utt6,Joey,surprise,98,50,50,96,26,Processed
+res_dia71_utt7_20260806_064035_full.txt,dia71_utt7,Joey,neutral,23,15,15,8,10,Processed
+res_dia71_utt8_20260806_064056_full.txt,dia71_utt8,Joey,neutral,66,66,66,0,2,Processed
+res_dia71_utt9_20260806_064122_full.txt,dia71_utt9,Joey,neutral,87,87,87,0,0,Processed
+res_dia72_utt0_20260806_064200_full.txt,dia72_utt0,Nurse,neutral,83,0,0,36,15,Speaker Not Trained
+res_dia72_utt10_20260806_064305_full.txt,dia72_utt10,Rachel,anger,103,102,102,1,0,Processed
+res_dia72_utt11_20260806_064328_full.txt,dia72_utt11,Rachel,anger,55,0,0,17,20,Speaker Not Found
+res_dia72_utt12_20260806_064401_full.txt,dia72_utt12,Ross,neutral,92,92,92,28,2,Processed
+res_dia72_utt13_20260806_064426_full.txt,dia72_utt13,Rachel,anger,76,37,37,16,0,Processed
+res_dia72_utt14_20260806_064507_full.txt,dia72_utt14,Nurse,neutral,73,0,0,71,0,Speaker Not Trained
+res_dia72_utt15_20260806_064540_full.txt,dia72_utt15,Rachel,neutral,87,87,87,0,105,Processed
+res_dia72_utt16_20260806_064620_full.txt,dia72_utt16,Woman,surprise,130,0,0,6,182,Speaker Not Trained
+res_dia72_utt1_20260806_064238_full.txt,dia72_utt1,Rachel,joy,83,40,40,36,15,Processed
+res_dia72_utt2_20260806_064656_full.txt,dia72_utt2,Rachel,anger,83,40,40,36,15,Processed
+res_dia72_utt3_20260806_064729_full.txt,dia72_utt3,Rachel,anger,83,40,40,36,15,Processed
+res_dia72_utt4_20260806_064740_full.txt,dia72_utt4,Rachel,anger,6,4,4,5,1,Processed
+res_dia72_utt5_20260806_064921_full.txt,dia72_utt5,Rachel,anger,283,280,280,33,420,Processed
+res_dia72_utt6_20260806_065014_full.txt,dia72_utt6,Rachel,anger,128,122,122,19,219,Processed
+res_dia72_utt7_20260806_065109_full.txt,dia72_utt7,Rachel,anger,128,122,122,19,219,Processed
+res_dia72_utt8_20260806_065126_full.txt,dia72_utt8,Rachel,anger,18,18,18,0,36,Processed
+res_dia72_utt9_20260806_065225_full.txt,dia72_utt9,Rachel,anger,99,59,59,71,167,Processed
+res_dia73_utt0_20260806_065406_full.txt,dia73_utt0,Joey,fear,178,130,130,146,109,Processed
+res_dia73_utt10_20260806_065500_full.txt,dia73_utt10,Ross,anger,75,75,75,26,63,Processed
+res_dia73_utt1_20260806_065428_full.txt,dia73_utt1,Ross,neutral,40,40,40,32,0,Processed
+res_dia73_utt2_20260806_065529_full.txt,dia73_utt2,Joey,anger,97,96,96,11,7,Processed
+res_dia73_utt3_20260806_065620_full.txt,dia73_utt3,Emily,neutral,48,0,0,97,1,Speaker Not Trained
+res_dia73_utt4_20260806_065659_full.txt,dia73_utt4,Ross,neutral,42,41,41,85,12,Processed
+res_dia73_utt5_20260806_065722_full.txt,dia73_utt5,Emily,neutral,32,0,0,23,19,Speaker Not Trained
+res_dia73_utt6_20260806_065801_full.txt,dia73_utt6,Phoebe,neutral,41,41,41,46,21,Processed
+res_dia73_utt7_20260806_065834_full.txt,dia73_utt7,Phoebe,joy,107,107,107,16,11,Processed
+res_dia73_utt8_20260806_065919_full.txt,dia73_utt8,Ross,anger,81,42,42,60,18,Processed
+res_dia73_utt9_20260806_065940_full.txt,dia73_utt9,Joey,neutral,49,0,0,2,28,Speaker Not Found
+res_dia74_utt0_20260806_070017_full.txt,dia74_utt0,Phoebe,joy,102,89,89,17,23,Processed
+res_dia74_utt1_20260806_070108_full.txt,dia74_utt1,Joey,neutral,91,79,79,71,0,Processed
+res_dia74_utt2_20260806_070150_full.txt,dia74_utt2,Monica,neutral,36,37,37,68,16,Processed
+res_dia74_utt3_20260806_070219_full.txt,dia74_utt3,Rachel,neutral,76,59,59,22,0,Processed
+res_dia74_utt4_20260806_070304_full.txt,dia74_utt4,Phoebe,neutral,115,115,115,0,135,Processed
+res_dia75_utt0_20260806_070347_full.txt,dia75_utt0,Phoebe,neutral,39,39,39,68,32,Processed
+res_dia75_utt1_20260806_070427_full.txt,dia75_utt1,Frank Sr.,neutral,33,0,0,43,56,Speaker Not Trained
+res_dia75_utt2_20260806_070520_full.txt,dia75_utt2,Phoebe,neutral,35,35,35,91,91,Processed
+res_dia75_utt3_20260806_070612_full.txt,dia75_utt3,Phoebe,neutral,31,29,29,94,40,Processed
+res_dia75_utt4_20260806_070719_full.txt,dia75_utt4,Phoebe,anger,35,35,35,131,66,Processed
+res_dia75_utt5_20260806_070946_full.txt,dia75_utt5,Phoebe,neutral,184,184,184,249,160,Processed
+res_dia76_utt0_20260806_071009_full.txt,dia76_utt0,Ross,neutral,44,32,32,4,55,Processed
+res_dia76_utt10_20260806_071106_full.txt,dia76_utt10,Rachel,neutral,40,0,0,10,0,Speaker Not Found
+res_dia76_utt11_20260806_071139_full.txt,dia76_utt11,Ross,neutral,93,93,93,0,90,Processed
+res_dia76_utt12_20260806_071225_full.txt,dia76_utt12,Rachel,neutral,99,70,70,44,21,Processed
+res_dia76_utt13_20260806_071251_full.txt,dia76_utt13,Ross,neutral,78,78,78,0,58,Processed
+res_dia76_utt14_20260806_071320_full.txt,dia76_utt14,Phoebe,neutral,99,86,86,1,12,Processed
+res_dia76_utt15_20260806_071339_full.txt,dia76_utt15,Rachel,neutral,58,58,58,0,0,Processed
+res_dia76_utt16_20260806_071423_full.txt,dia76_utt16,Phoebe,joy,185,185,185,0,0,Processed
+res_dia76_utt17_20260806_071500_full.txt,dia76_utt17,Rachel,neutral,66,29,29,26,32,Processed
+res_dia76_utt18_20260806_071519_full.txt,dia76_utt18,Phoebe,joy,30,30,30,0,30,Processed
+res_dia76_utt1_20260806_071047_full.txt,dia76_utt1,Rachel,neutral,126,110,110,16,34,Processed
+res_dia76_utt2_20260806_071600_full.txt,dia76_utt2,Monica,neutral,68,68,68,25,97,Processed
+res_dia76_utt3_20260806_071649_full.txt,dia76_utt3,Rachel,neutral,54,0,0,68,63,Speaker Not Found
+res_dia76_utt4_20260806_071720_full.txt,dia76_utt4,Monica,neutral,33,22,22,41,45,Processed
+res_dia76_utt5_20260806_071833_full.txt,dia76_utt5,Rachel,neutral,85,0,0,106,115,Speaker Not Found
+res_dia76_utt6_20260806_071914_full.txt,dia76_utt6,Monica,neutral,40,40,40,52,50,Processed
+res_dia76_utt7_20260806_071955_full.txt,dia76_utt7,Rachel,neutral,76,67,67,52,76,Processed
+res_dia76_utt8_20260806_072014_full.txt,dia76_utt8,Rachel,surprise,43,43,43,5,31,Processed
+res_dia76_utt9_20260806_072029_full.txt,dia76_utt9,Ross,neutral,36,36,36,0,7,Processed
+res_dia77_utt0_20260806_072053_full.txt,dia77_utt0,Ross,surprise,46,0,0,26,6,Speaker Not Found
+res_dia77_utt1_20260806_072127_full.txt,dia77_utt1,Monica,neutral,127,125,125,19,14,Processed
+res_dia77_utt2_20260806_072155_full.txt,dia77_utt2,Ross,anger,27,3,3,40,0,Processed
+res_dia77_utt3_20260806_072225_full.txt,dia77_utt3,Monica,anger,75,0,0,38,5,Speaker Not Found
+res_dia77_utt4_20260806_072329_full.txt,dia77_utt4,Rachel,sadness,79,0,0,104,35,Speaker Not Found
+res_dia78_utt0_20260806_072349_full.txt,dia78_utt0,Rachel,sadness,36,0,0,0,36,Speaker Not Found
+res_dia78_utt1_20260806_072419_full.txt,dia78_utt1,Monica,neutral,69,69,69,0,69,Processed
+res_dia78_utt2_20260806_072453_full.txt,dia78_utt2,Rachel,neutral,51,0,0,26,94,Speaker Not Found
+res_dia78_utt3_20260806_072532_full.txt,dia78_utt3,Monica,neutral,28,36,36,58,57,Processed
+res_dia78_utt4_20260806_072616_full.txt,dia78_utt4,Ross,neutral,35,35,35,47,90,Processed
+res_dia78_utt5_20260806_072649_full.txt,dia78_utt5,Rachel,neutral,19,0,0,42,53,Speaker Not Found
+res_dia78_utt6_20260806_072729_full.txt,dia78_utt6,Ross,neutral,45,45,45,64,60,Processed
+res_dia78_utt7_20260806_072809_full.txt,dia78_utt7,Ross,joy,45,45,45,64,60,Processed
+res_dia78_utt8_20260806_072855_full.txt,dia78_utt8,Rachel,joy,76,76,76,22,92,Processed
+res_dia78_utt9_20260806_073029_full.txt,dia78_utt9,Phoebe,joy,103,93,93,91,281,Processed
+res_dia79_utt0_20260806_073053_full.txt,dia79_utt0,Monica,neutral,75,75,75,0,4,Processed
+res_dia79_utt1_20260806_073107_full.txt,dia79_utt1,Rachel,neutral,15,15,15,0,2,Processed
+res_dia7_utt0_20260806_073143_full.txt,dia7_utt0,Monica,neutral,54,0,0,0,113,Speaker Not Found
+res_dia7_utt1_20260806_073218_full.txt,dia7_utt1,Phoebe,neutral,38,38,38,0,152,Processed
+res_dia7_utt2_20260806_073335_full.txt,dia7_utt2,Joey,neutral,54,54,54,145,49,Processed
+res_dia7_utt3_20260806_073411_full.txt,dia7_utt3,Chandler,neutral,101,100,100,6,166,Processed
+res_dia7_utt4_20260806_073528_full.txt,dia7_utt4,Monica,surprise,61,64,64,113,139,Processed
+res_dia7_utt5_20260806_073653_full.txt,dia7_utt5,Ross,neutral,78,75,75,111,88,Processed
+res_dia7_utt6_20260806_073801_full.txt,dia7_utt6,Monica,surprise,59,61,61,115,78,Processed
+res_dia7_utt7_20260806_074102_full.txt,dia7_utt7,Ross,neutral,238,222,222,282,449,Processed
+res_dia7_utt8_20260806_074223_full.txt,dia7_utt8,Joey,neutral,86,86,86,135,134,Processed
+res_dia80_utt0_20260806_074249_full.txt,dia80_utt0,Rachel,anger,77,60,60,17,0,Processed
+res_dia80_utt1_20260806_074259_full.txt,dia80_utt1,Monica,anger,3,2,2,4,0,Processed
+res_dia80_utt2_20260806_074313_full.txt,dia80_utt2,Joey,disgust,29,29,29,0,0,Processed
+res_dia80_utt3_20260806_074330_full.txt,dia80_utt3,Monica,anger,41,41,41,2,0,Processed
+res_dia80_utt4_20260806_074352_full.txt,dia80_utt4,Rachel,anger,49,43,43,6,14,Processed
+res_dia80_utt5_20260806_074454_full.txt,dia80_utt5,Monica,neutral,142,142,142,117,31,Processed
+res_dia80_utt6_20260806_074607_full.txt,dia80_utt6,Joey,neutral,130,130,130,44,193,Processed
+res_dia80_utt7_20260806_074627_full.txt,dia80_utt7,Rachel,anger,53,52,52,1,0,Processed
+res_dia80_utt8_20260806_074643_full.txt,dia80_utt8,Joey,neutral,18,0,0,18,2,Speaker Not Found
+res_dia80_utt9_20260806_074702_full.txt,dia80_utt9,Joey,neutral,61,60,60,2,1,Processed
+res_dia81_utt0_20260806_074755_full.txt,dia81_utt0,Ross,joy,165,165,165,14,155,Processed
+res_dia81_utt1_20260806_074838_full.txt,dia81_utt1,Rachel,neutral,116,116,116,0,195,Processed
+res_dia82_utt0_20260806_074857_full.txt,dia82_utt0,Monica,neutral,25,0,0,25,14,Speaker Not Found
+res_dia83_utt0_20260806_075025_full.txt,dia83_utt0,Chandler,neutral,112,92,92,137,147,Processed
+res_dia83_utt10_20260806_075156_full.txt,dia83_utt10,Ross,anger,107,39,39,60,151,Processed
+res_dia83_utt1_20260806_075050_full.txt,dia83_utt1,Phoebe,neutral,87,87,87,4,4,Processed
+res_dia83_utt2_20260806_075232_full.txt,dia83_utt2,Ross,neutral,105,0,0,2,104,Speaker Not Found
+res_dia83_utt3_20260806_075243_full.txt,dia83_utt3,Chandler,neutral,3,3,3,3,3,Processed
+res_dia83_utt4_20260806_075302_full.txt,dia83_utt4,All,joy,25,0,0,7,50,Speaker Not Trained
+res_dia83_utt5_20260806_075333_full.txt,dia83_utt5,Chandler,anger,63,63,63,12,126,Processed
+res_dia83_utt6_20260806_075348_full.txt,dia83_utt6,Phoebe,surprise,26,26,26,2,0,Processed
+res_dia83_utt7_20260806_075429_full.txt,dia83_utt7,Chandler,sadness,163,163,163,6,39,Processed
+res_dia83_utt8_20260806_075500_full.txt,dia83_utt8,Monica,neutral,82,0,0,0,39,Speaker Not Found
+res_dia83_utt9_20260806_075531_full.txt,dia83_utt9,Chandler,sadness,49,49,49,0,0,Processed
+res_dia84_utt0_20260806_075630_full.txt,dia84_utt0,Chandler,anger,61,56,56,34,178,Processed
+res_dia84_utt1_20260806_075652_full.txt,dia84_utt1,Joey,anger,24,0,0,23,44,Speaker Not Found
+res_dia84_utt2_20260806_080001_full.txt,dia84_utt2,Joey,sadness,249,0,0,166,544,Speaker Not Found
+res_dia85_utt0_20260806_080021_full.txt,dia85_utt0,Joey,neutral,67,67,67,0,0,Processed
+res_dia85_utt1_20260806_080042_full.txt,dia85_utt1,Chandler,surprise,72,72,72,0,0,Processed
+res_dia85_utt2_20260806_080057_full.txt,dia85_utt2,Joey,anger,30,29,29,1,0,Processed
+res_dia85_utt3_20260806_080136_full.txt,dia85_utt3,Joey,anger,121,104,104,17,16,Processed
+res_dia85_utt4_20260806_080158_full.txt,dia85_utt4,Joey,disgust,69,68,68,1,0,Processed
+res_dia85_utt5_20260806_080217_full.txt,dia85_utt5,Joey,anger,43,43,43,0,0,Processed
+res_dia86_utt0_20260806_080239_full.txt,dia86_utt0,Rachel,neutral,54,16,16,4,0,Processed
+res_dia86_utt1_20260806_080307_full.txt,dia86_utt1,Rachel,neutral,32,0,0,31,1,Speaker Not Found
+res_dia86_utt2_20260806_080402_full.txt,dia86_utt2,Rachel,neutral,175,146,146,34,3,Processed
+res_dia86_utt3_20260806_080506_full.txt,dia86_utt3,Rachel,neutral,102,0,0,102,0,Speaker Not Found
+res_dia86_utt4_20260806_080600_full.txt,dia86_utt4,Rachel,neutral,146,47,47,29,67,Processed
+res_dia86_utt5_20260806_080619_full.txt,dia86_utt5,Ross,disgust,49,49,49,0,0,Processed
+res_dia86_utt6_20260806_080638_full.txt,dia86_utt6,Joey,joy,33,33,33,3,0,Processed
+res_dia86_utt7_20260806_080702_full.txt,dia86_utt7,Ross,surprise,25,25,25,25,0,Processed
+res_dia87_utt0_20260806_080723_full.txt,dia87_utt0,Chandler,neutral,61,61,61,0,61,Processed
+res_dia87_utt1_20260806_080816_full.txt,dia87_utt1,Monica,neutral,74,61,61,53,38,Processed
+res_dia88_utt0_20260806_080957_full.txt,dia88_utt0,Host,joy,75,0,0,150,0,Speaker Not Trained
+res_dia88_utt10_20260806_081109_full.txt,dia88_utt10,Mike,neutral,222,0,0,4,0,Speaker Not Trained
+res_dia88_utt11_20260806_081142_full.txt,dia88_utt11,Ross,surprise,64,64,64,13,61,Processed
+res_dia88_utt12_20260806_081153_full.txt,dia88_utt12,Chandler,joy,7,7,7,7,7,Processed
+res_dia88_utt13_20260806_081226_full.txt,dia88_utt13,Mike,neutral,108,0,0,26,0,Speaker Not Trained
+res_dia88_utt1_20260806_081015_full.txt,dia88_utt1,Phoebe,joy,31,31,31,1,0,Processed
+res_dia88_utt2_20260806_081250_full.txt,dia88_utt2,Joey,disgust,69,60,60,15,41,Processed
+res_dia88_utt3_20260806_081306_full.txt,dia88_utt3,All,anger,28,0,0,7,24,Speaker Not Trained
+res_dia88_utt4_20260806_081432_full.txt,dia88_utt4,Host,neutral,164,0,0,181,2,Speaker Not Trained
+res_dia88_utt5_20260806_081544_full.txt,dia88_utt5,Host,neutral,129,0,0,158,2,Speaker Not Trained
+res_dia88_utt6_20260806_081728_full.txt,dia88_utt6,Joey,anger,194,124,124,194,6,Processed
+res_dia88_utt7_20260806_081759_full.txt,dia88_utt7,Mike,neutral,88,0,0,50,0,Speaker Not Trained
+res_dia88_utt8_20260806_081826_full.txt,dia88_utt8,Joey,sadness,78,78,78,4,37,Processed
+res_dia88_utt9_20260806_081847_full.txt,dia88_utt9,Rachel,joy,45,32,32,13,4,Processed
+res_dia89_utt0_20260806_081914_full.txt,dia89_utt0,Mike,neutral,48,0,0,51,0,Speaker Not Trained
+res_dia89_utt1_20260806_081940_full.txt,dia89_utt1,Mike,neutral,73,0,0,15,0,Speaker Not Trained
+res_dia89_utt2_20260806_082022_full.txt,dia89_utt2,Joey,surprise,166,96,96,15,0,Processed
+res_dia8_utt0_20260806_082113_full.txt,dia8_utt0,Jade,sadness,230,0,0,2,31,Speaker Not Trained
+res_dia8_utt1_20260806_082131_full.txt,dia8_utt1,Chandler,joy,63,63,63,0,0,Processed
+res_dia8_utt2_20260806_082151_full.txt,dia8_utt2,Jade,neutral,63,0,0,0,0,Speaker Not Trained
+res_dia8_utt3_20260806_082202_full.txt,dia8_utt3,Ross,surprise,5,0,0,1,0,Speaker Not Found
+res_dia8_utt4_20260806_082230_full.txt,dia8_utt4,Chandler,neutral,104,97,97,7,0,Processed
+res_dia8_utt5_20260806_082248_full.txt,dia8_utt5,Chandler,neutral,39,39,39,6,22,Processed
+res_dia8_utt6_20260806_082320_full.txt,dia8_utt6,Jade,joy,84,0,0,15,48,Speaker Not Trained
+res_dia90_utt0_20260806_082440_full.txt,dia90_utt0,Rachel,neutral,148,148,148,51,123,Processed
+res_dia90_utt1_20260806_082749_full.txt,dia90_utt1,Ross,anger,401,401,401,2,819,Processed
+res_dia90_utt2_20260806_082827_full.txt,dia90_utt2,Rachel,surprise,62,52,52,39,58,Processed
+res_dia90_utt3_20260806_082910_full.txt,dia90_utt3,Ross,sadness,55,55,55,0,165,Processed
+res_dia90_utt4_20260806_083052_full.txt,dia90_utt4,Rachel,sadness,204,204,204,2,394,Processed
+res_dia90_utt5_20260806_083140_full.txt,dia90_utt5,Ross,sadness,89,0,0,0,193,Speaker Not Found
+res_dia91_utt0_20260806_083315_full.txt,dia91_utt0,Joey,neutral,83,30,30,132,223,Processed
+res_dia92_utt0_20260806_083337_full.txt,dia92_utt0,Monica,joy,55,0,0,14,0,Speaker Not Found
+res_dia92_utt1_20260806_083354_full.txt,dia92_utt1,Monica,neutral,52,0,0,0,0,Speaker Not Found
+res_dia92_utt2_20260806_083414_full.txt,dia92_utt2,Monica,neutral,61,0,0,0,0,Speaker Not Found
+res_dia92_utt3_20260806_083435_full.txt,dia92_utt3,Chandler,joy,75,0,0,0,0,Speaker Not Found
+res_dia92_utt4_20260806_083454_full.txt,dia92_utt4,Monica,joy,50,0,0,5,0,Speaker Not Found
+res_dia92_utt5_20260806_083508_full.txt,dia92_utt5,Rachel,disgust,29,23,23,6,0,Processed
+res_dia93_utt0_20260806_083526_full.txt,dia93_utt0,Joey,sadness,47,38,38,9,0,Processed
+res_dia93_utt10_20260806_083600_full.txt,dia93_utt10,Chandler,neutral,13,13,13,0,13,Processed
+res_dia93_utt11_20260806_083648_full.txt,dia93_utt11,Wayne,neutral,87,0,0,87,0,Speaker Not Trained
+res_dia93_utt12_20260806_083713_full.txt,dia93_utt12,Joey,anger,49,49,49,0,49,Processed
+res_dia93_utt13_20260806_083749_full.txt,dia93_utt13,Chandler,neutral,94,94,94,0,94,Processed
+res_dia93_utt14_20260806_083817_full.txt,dia93_utt14,Joey,neutral,66,66,66,0,66,Processed
+res_dia93_utt15_20260806_083948_full.txt,dia93_utt15,Wayne,neutral,140,0,0,143,140,Speaker Not Trained
+res_dia93_utt1_20260806_083548_full.txt,dia93_utt1,Chandler,sadness,63,63,63,0,48,Processed
+res_dia93_utt2_20260806_084018_full.txt,dia93_utt2,Joey,neutral,82,64,64,25,0,Processed
+res_dia93_utt3_20260806_084107_full.txt,dia93_utt3,Wayne,neutral,61,0,0,62,59,Speaker Not Trained
+res_dia93_utt4_20260806_084210_full.txt,dia93_utt4,Joey,neutral,106,106,106,0,106,Processed
+res_dia93_utt5_20260806_084255_full.txt,dia93_utt5,,,0,0,0,0,0,No MELD Match
+res_dia93_utt6_20260806_084338_full.txt,dia93_utt6,,,0,0,0,0,0,No MELD Match
+res_dia93_utt7_20260806_084351_full.txt,dia93_utt7,,,0,0,0,0,0,No MELD Match
+res_dia93_utt8_20260806_084421_full.txt,dia93_utt8,Joey,neutral,63,63,63,0,60,Processed
+res_dia93_utt9_20260806_084447_full.txt,dia93_utt9,Joey,neutral,63,63,63,0,60,Processed
+res_dia94_utt0_20260806_084528_full.txt,dia94_utt0,Paul,surprise,34,0,0,68,0,Speaker Not Trained
+res_dia94_utt1_20260806_084554_full.txt,dia94_utt1,Ross,neutral,104,104,104,0,0,Processed
+res_dia94_utt2_20260806_084714_full.txt,dia94_utt2,Paul,neutral,136,0,0,149,38,Speaker Not Trained
+res_dia95_utt0_20260806_084805_full.txt,dia95_utt0,Phoebe,surprise,141,141,141,28,103,Processed
+res_dia95_utt10_20260806_085042_full.txt,dia95_utt10,Phoebe,neutral,74,74,74,37,37,Processed
+res_dia95_utt11_20260806_085122_full.txt,dia95_utt11,Phoebe,surprise,74,74,74,37,37,Processed
+res_dia95_utt12_20260806_085135_full.txt,dia95_utt12,Phoebe,joy,3,3,3,0,3,Processed
+res_dia95_utt13_20260806_085212_full.txt,dia95_utt13,Phoebe,joy,81,77,77,38,44,Processed
+res_dia95_utt14_20260806_085309_full.txt,dia95_utt14,Steve,joy,46,0,0,62,79,Speaker Not Trained
+res_dia95_utt15_20260806_085348_full.txt,dia95_utt15,Phoebe,joy,32,29,29,46,61,Processed
+res_dia95_utt16_20260806_085431_full.txt,dia95_utt16,Steve,neutral,36,0,0,50,73,Speaker Not Trained
+res_dia95_utt17_20260806_085825_full.txt,dia95_utt17,Steve,fear,128,0,0,364,182,Speaker Not Trained
+res_dia95_utt18_20260806_085931_full.txt,dia95_utt18,Steve,neutral,30,0,0,68,88,Speaker Not Trained
+res_dia95_utt19_20260806_085946_full.txt,dia95_utt19,Phoebe,joy,40,40,40,0,0,Processed
+res_dia95_utt1_20260806_085004_full.txt,dia95_utt1,Guest #1,joy,71,0,0,139,162,Speaker Not Trained
+res_dia95_utt2_20260806_090004_full.txt,dia95_utt2,Ross,surprise,4,4,4,16,10,Processed
+res_dia95_utt3_20260806_090022_full.txt,dia95_utt3,Phoebe,neutral,36,36,36,0,36,Processed
+res_dia95_utt4_20260806_090459_full.txt,dia95_utt4,Ross,surprise,167,167,167,379,434,Processed
+res_dia95_utt5_20260806_090520_full.txt,dia95_utt5,Phoebe,anger,39,39,39,0,39,Processed
+res_dia95_utt6_20260806_090529_full.txt,dia95_utt6,Phoebe,neutral,3,3,3,0,3,Processed
+res_dia95_utt7_20260806_090601_full.txt,dia95_utt7,Phoebe,joy,59,59,59,21,38,Processed
+res_dia95_utt8_20260806_090624_full.txt,dia95_utt8,Phoebe,joy,41,41,41,0,41,Processed
+res_dia95_utt9_20260806_090811_full.txt,dia95_utt9,Ross,anger,51,51,51,128,190,Processed
+res_dia96_utt0_20260806_090831_full.txt,dia96_utt0,Joey,neutral,65,64,64,2,0,Processed
+res_dia96_utt10_20260806_090907_full.txt,dia96_utt10,Chandler,neutral,48,43,43,5,0,Processed
+res_dia96_utt11_20260806_090942_full.txt,dia96_utt11,Chandler,neutral,67,0,0,7,83,Speaker Not Found
+res_dia96_utt12_20260806_091012_full.txt,dia96_utt12,Monica,surprise,42,42,42,1,65,Processed
+res_dia96_utt13_20260806_091047_full.txt,dia96_utt13,Chandler,neutral,79,52,52,15,78,Processed
+res_dia96_utt14_20260806_091111_full.txt,dia96_utt14,Rachel,surprise,46,0,0,2,73,Speaker Not Found
+res_dia96_utt15_20260806_091145_full.txt,dia96_utt15,Chandler,neutral,130,69,69,11,18,Processed
+res_dia96_utt16_20260806_091206_full.txt,dia96_utt16,Chandler,neutral,25,25,25,25,4,Processed
+res_dia96_utt17_20260806_091253_full.txt,dia96_utt17,Chandler,neutral,117,116,116,36,14,Processed
+res_dia96_utt18_20260806_091422_full.txt,dia96_utt18,Chandler,neutral,223,215,215,58,18,Processed
+res_dia96_utt19_20260806_091459_full.txt,dia96_utt19,Monica,neutral,83,60,60,21,0,Processed
+res_dia96_utt1_20260806_090849_full.txt,dia96_utt1,Monica,neutral,21,19,19,5,18,Processed
+res_dia96_utt20_20260806_091713_full.txt,dia96_utt20,Monica,neutral,171,168,168,174,0,Processed
+res_dia96_utt2_20260806_091531_full.txt,dia96_utt2,Joey,joy,48,48,48,0,48,Processed
+res_dia96_utt3_20260806_091816_full.txt,dia96_utt3,Monica,disgust,138,136,136,8,72,Processed
+res_dia96_utt4_20260806_091832_full.txt,dia96_utt4,Joey,joy,25,0,0,0,0,Speaker Not Found
+res_dia96_utt5_20260806_091908_full.txt,dia96_utt5,Chandler,neutral,45,0,0,39,6,Speaker Not Found
+res_dia96_utt6_20260806_091924_full.txt,dia96_utt6,Monica,anger,3,3,3,1,2,Processed
+res_dia96_utt7_20260806_092025_full.txt,dia96_utt7,Chandler,disgust,159,0,0,15,57,Speaker Not Found
+res_dia96_utt8_20260806_092055_full.txt,dia96_utt8,Monica,neutral,36,0,0,18,0,Speaker Not Found
+res_dia96_utt9_20260806_092115_full.txt,dia96_utt9,Rachel,anger,43,43,43,0,0,Processed
+res_dia97_utt0_20260806_092142_full.txt,dia97_utt0,Joey,joy,62,0,0,0,0,Speaker Not Found
+res_dia97_utt10_20260806_092551_full.txt,dia97_utt10,Joey,neutral,66,26,26,305,137,Processed
+res_dia97_utt11_20260806_093110_full.txt,dia97_utt11,Joey,joy,207,158,158,477,116,Processed
+res_dia97_utt1_20260806_092219_full.txt,dia97_utt1,Monica,joy,124,124,124,0,0,Processed
+res_dia97_utt2_20260806_093138_full.txt,dia97_utt2,Joey,neutral,81,0,0,0,0,Speaker Not Found
+res_dia97_utt3_20260806_093201_full.txt,dia97_utt3,Monica,neutral,46,46,46,0,0,Processed
+res_dia97_utt4_20260806_093226_full.txt,dia97_utt4,Monica,neutral,66,66,66,0,0,Processed
+res_dia97_utt5_20260806_093243_full.txt,dia97_utt5,Monica,neutral,29,29,29,0,0,Processed
+res_dia97_utt6_20260806_093303_full.txt,dia97_utt6,Joey,neutral,45,0,0,0,0,Speaker Not Found
+res_dia97_utt7_20260806_093334_full.txt,dia97_utt7,Joey,neutral,98,0,0,3,0,Speaker Not Found
+res_dia97_utt8_20260806_093403_full.txt,dia97_utt8,Joey,fear,84,0,0,1,0,Speaker Not Found
+res_dia97_utt9_20260806_093427_full.txt,dia97_utt9,Joey,neutral,71,0,0,1,0,Speaker Not Found
+res_dia98_utt0_20260806_093524_full.txt,dia98_utt0,Rachel,surprise,98,22,22,72,27,Processed
+res_dia98_utt10_20260806_093730_full.txt,dia98_utt10,Phoebe,neutral,147,138,138,32,164,Processed
+res_dia98_utt11_20260806_093812_full.txt,dia98_utt11,Phoebe,neutral,42,0,0,30,70,Speaker Not Found
+res_dia98_utt1_20260806_093556_full.txt,dia98_utt1,Monica,anger,111,110,110,1,0,Processed
+res_dia98_utt2_20260806_093843_full.txt,dia98_utt2,Rachel,surprise,48,0,0,7,57,Speaker Not Found
+res_dia98_utt3_20260806_093913_full.txt,dia98_utt3,Monica,anger,55,52,52,3,55,Processed
+res_dia98_utt4_20260806_093930_full.txt,dia98_utt4,Monica,anger,24,24,24,0,24,Processed
+res_dia98_utt5_20260806_093955_full.txt,dia98_utt5,Monica,anger,42,42,42,7,35,Processed
+res_dia98_utt6_20260806_094018_full.txt,dia98_utt6,Monica,anger,81,81,81,0,0,Processed
+res_dia98_utt7_20260806_094037_full.txt,dia98_utt7,Monica,anger,47,47,47,0,0,Processed
+res_dia98_utt8_20260806_094056_full.txt,dia98_utt8,Monica,anger,45,45,45,0,0,Processed
+res_dia98_utt9_20260806_094110_full.txt,dia98_utt9,Monica,neutral,16,16,16,0,0,Processed
+res_dia99_utt0_20260806_094128_full.txt,dia99_utt0,Joey,neutral,29,0,0,0,29,Speaker Not Found
+res_dia99_utt1_20260806_094147_full.txt,dia99_utt1,Chandler,neutral,49,49,49,0,18,Processed
+res_dia99_utt2_20260806_094222_full.txt,dia99_utt2,Joey,neutral,48,0,0,47,0,Speaker Not Found
+res_dia99_utt3_20260806_094258_full.txt,dia99_utt3,Chandler,neutral,37,56,56,14,0,Processed
+res_dia99_utt4_20260806_094316_full.txt,dia99_utt4,Joey,neutral,39,39,39,0,0,Processed
+res_dia99_utt5_20260806_094358_full.txt,dia99_utt5,Chandler,neutral,131,145,145,4,0,Processed
+res_dia99_utt6_20260806_094422_full.txt,dia99_utt6,Joey,neutral,59,59,59,0,0,Processed
+res_dia99_utt7_20260806_094444_full.txt,dia99_utt7,Chandler,neutral,57,57,57,0,0,Processed
+res_dia99_utt8_20260806_094509_full.txt,dia99_utt8,Joey,neutral,66,49,49,5,0,Processed
+res_dia99_utt9_20260806_094537_full.txt,dia99_utt9,Chandler,fear,90,88,88,0,2,Processed
+res_dia9_utt0_20260806_094712_full.txt,dia9_utt0,Phoebe,fear,136,88,88,55,178,Processed
+res_dia9_utt10_20260806_094814_full.txt,dia9_utt10,Chandler,neutral,53,53,53,0,1,Processed
+res_dia9_utt11_20260806_094857_full.txt,dia9_utt11,Rachel,sadness,58,30,30,57,25,Processed
+res_dia9_utt12_20260806_094925_full.txt,dia9_utt12,Monica,neutral,25,25,25,37,25,Processed
+res_dia9_utt13_20260806_095003_full.txt,dia9_utt13,Rachel,anger,62,62,62,0,59,Processed
+res_dia9_utt14_20260806_095126_full.txt,dia9_utt14,Fireman #1,neutral,133,0,0,80,31,Speaker Not Trained
+res_dia9_utt15_20260806_095249_full.txt,dia9_utt15,Rachel,joy,155,154,154,121,42,Processed
+res_dia9_utt16_20260806_095347_full.txt,dia9_utt16,Monica,neutral,56,61,61,30,98,Processed
+res_dia9_utt17_20260806_095406_full.txt,dia9_utt17,Chandler,neutral,63,63,63,0,0,Processed
+res_dia9_utt1_20260806_094755_full.txt,dia9_utt1,Monica,neutral,43,41,41,62,26,Processed
+res_dia9_utt2_20260806_095435_full.txt,dia9_utt2,Fireman #1,sadness,51,0,0,51,0,Speaker Not Trained
+res_dia9_utt3_20260806_095512_full.txt,dia9_utt3,Phoebe,surprise,24,0,0,55,50,Speaker Not Found
+res_dia9_utt4_20260806_095529_full.txt,dia9_utt4,Rachel,surprise,6,0,0,12,11,Speaker Not Found
+res_dia9_utt5_20260806_095602_full.txt,dia9_utt5,Joey,neutral,77,58,58,32,13,Processed
+res_dia9_utt6_20260806_095627_full.txt,dia9_utt6,Fireman #1,surprise,70,0,0,18,0,Speaker Not Trained
+res_dia9_utt7_20260806_095712_full.txt,dia9_utt7,Monica,anger,134,113,113,18,58,Processed
+res_dia9_utt8_20260806_095745_full.txt,dia9_utt8,Joey,sadness,82,0,0,11,60,Speaker Not Found
+res_dia9_utt9_20260806_095858_full.txt,dia9_utt9,Phoebe,sadness,221,216,216,31,133,Processed
