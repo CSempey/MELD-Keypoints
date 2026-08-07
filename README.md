@@ -25,14 +25,33 @@ Users must obtain MELD separately from the original dataset source and comply wi
 
 ### v0.1
 
-Conference paper release.
+IMVIP 2026 Conference paper release.
 
 Current statistics:
 
-- Videos processed: 5,601
+- Videos processed: 5,601/13,848
 - Keypoint records: 283,093
 
 Processing of the remaining MELD videos is ongoing.
+
+## Dataset Downloads
+
+### MELD-Keypoints v0.1
+
+IMVIP 2026 Conference paper release.
+
+Statistics:
+
+- Videos processed: 5,601/13,848
+- Keypoint records: 283,093
+
+Dataset Downloads
+
+Link to MELD-Keypoints v0.1 folder containing dev_meld_dataset.mat, test_meld_dataset.mat and train_meld_dataset.mat
+
+https://ulster-my.sharepoint.com/:f:/r/personal/sempey-c1_ulster_ac_uk/Documents/Data/MELD-Keypoints-v0.1?d=wb3faed1de4a44e2389a9727d90ebaf68&csf=1&web=1&e=n7uvOo
+
+NOTE: Temporary hosting on OneDrive, will be moved to Pure and links updated.
 
 ## Repository Structure
 
