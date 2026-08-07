@@ -13,11 +13,13 @@ The dataset combines:
 
 while preserving the original MELD train, development and test partitions.
 
-## Important
+## Important - Relationship to MELD
 
-This repository does not contain the original MELD video data.
+MELD-Keypoints is a derived dataset based on MELD (Multimodal EmotionLines Dataset).
 
-Users must obtain MELD separately from the original dataset source and comply with the original MELD licence terms.
+This repository does not contain or redistribute the original MELD video data.
+
+Users must obtain MELD separately from the original dataset source and comply with the original MELD licence terms and usage requirements.
 
 ## Current Release
 
