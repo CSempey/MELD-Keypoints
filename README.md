@@ -1,2 +1,40 @@
 # MELD-Keypoints
-Speaker-specific facial, body and hand keypoint enhancement of the MELD emotion recognition dataset.
+
+MELD-Keypoints is a speaker-specific multimodal keypoint enhancement of the MELD (Multimodal EmotionLines Dataset) corpus.
+
+The dataset combines:
+
+- MELD emotion annotations
+- Pyppbox speaker identification
+- OpenPose body keypoints
+- OpenPose face keypoints
+- OpenPose hand keypoints
+- Speaker-to-skeleton matching metadata
+
+while preserving the original MELD train, development and test partitions.
+
+## Important
+
+This repository does not contain the original MELD video data.
+
+Users must obtain MELD separately from the original dataset source and comply with the original MELD licence terms.
+
+## Current Release
+
+### v0.1
+
+Conference paper release.
+
+Current statistics:
+
+- Videos processed: 5,601
+- Keypoint records: 283,093
+
+Processing of the remaining MELD videos is ongoing.
+
+## Repository Structure
+
+```text
+code/
+docs/
+tracking_tables/
